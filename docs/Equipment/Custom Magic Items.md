@@ -3,35 +3,30 @@
 -   [Boots of
     Bounding]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [These boots allow you to jump up to 100 feet in any
     direction.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Cape of
     Gliding]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This cape allows you to descend 5 feet horizontally for each food
     you fall vertically. You cannot fall faster than 10 feet in a round
     while using this feature.
      ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Cobra's
     Fangs]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Set of two daggers that deal an additional 1d6 poison damage. They
     return to your hands after throwing them. Any target hit by one of
     the daggers must succeed on a DC 12 Constitution saving throw or be
@@ -39,28 +34,24 @@
     the end of their next
     turn.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The Arbalest of
     Storm]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Ranged Weapon, 5 charges, 3 for lightning arrow, 1 for hail of
     thorns, no ammo required, thunder damage instead of piercing
     damage.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Exploding
     Sword]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Can cast booming
     blade]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [5 charges, refresh at dawn daily. After landing a successful
@@ -70,15 +61,13 @@
     successful save, creatures take half damage.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Rust Monster
     Armor]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Any medium or heavy
     armor]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Rust Monster rust metal
@@ -86,44 +75,38 @@
 -   [+1
     AC]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Spell-Might
     Gloves]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While equipped, any time you cast a spell that requires a spell
     attack, you can take a -5 penalty to the attack roll, but if the
     attack hits, it deals an extra 1d8
     damage.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Vinewood
     Sword]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This is a +1 wooden longsword. From this sword, you can cast
     Ensnaring Strike without using a spell slot. The spell save DC for
     this is 13 or your spell save DC, whichever is higher. You can cast
     this spell in this way 3 times per daily
     dawn.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Hardwood
     Shield]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This is a +1 wooden shield. As a reaction when you take damage, you
     can entomb yourself in bark. You gain 50 temporary hit points, which
     take as much of the triggering damage as possible. Immediately after
@@ -133,15 +116,13 @@
     your next turn or when the temporary hit points are
     depleted.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Staff of Arboreal
     Power]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Once per daily dawn, you can cause a tree to sprout from the ground
     at a point on the ground within 60 feet of you. The tree sprouts
     quickly, occupying a 5 foot radius cylinder that is 20 feet high.
@@ -153,15 +134,13 @@
     takes any
     damage.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Gear
     Axe]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The gear axe is a greataxe with 2 large, sharp toothed gears
     instead of blades. You can use a bonus action to cause the gears to
     rapidly spin for one minute, dealing an 3d6 slashing damage to any
@@ -171,29 +150,25 @@
     tools to fix it. Proficiency in either tool reduces this time to 1
     minute.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Damage
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While spinning:
     3d6]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [While off:
     1d8]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Power
     Flail]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This flail has magical enhancements that allow it to propel its
     head forward. When you take the attack action on your turn, you can
     replace one of your attacks with a magically propelled strike. The
@@ -210,15 +185,13 @@
     time to 1
     minute.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Trifold
     Rapier]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This rapier's blade is made of intricate parts that allow it to
     telescopically fold into and out of the handle. Extending or
     retracting the blade can be done as an action, or as part of an
@@ -236,15 +209,13 @@
     Proficiency in either tool reduces this time to 1
     minute.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [BFC (Big Fucking
     Crossbow)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This crossbow requires a bonus action to reload. When you fire it,
     choose any number of creatures that you can see in a 100 ft line.
     Make an attack roll against the first creature in the line. If the
@@ -258,15 +229,13 @@
     time to 1
     minute.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Alchemist\'s
     Blowgun]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This is a custom blowgun designed to work with potions. The blowgun
     uses special ammunition that have built in glass vials to store
     potions. The blowgun magically summons its ammunition into a special
@@ -279,15 +248,13 @@
     hit one target. This effect is blocked by the shield
     spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Cube of
     Chaos]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This tiny cube has rotating sides that change the orientation of
     colored squares on the face of the cube. Throwing the cube creates a
     random magical effect. The cube can be thrown up to 60ft to a point
@@ -317,9 +284,8 @@
 -   [The Hammer of
     Disorder]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [3 charges, refresh on long rest. Spend 1 charge on a successful
     attack to apply one of the following
     effects]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -343,24 +309,21 @@
 -   [Coin of
     Luck]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Flip the coin and target one individual. When you do so, call heads
     or tails. If the coin lands in your favor, a Wild Magic Surge is
     triggered on the target. If the coin lands in their favor, a Wild
     Magic Surge is triggered on
     you.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The Oscillistone
     Prosthetic]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Wondrous Item, Rare (Requires
     Attunement)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [This mechanical arm is crafted from polished brass and damask
@@ -389,15 +352,13 @@
     Exhaustion from the \"phantom hum\" keeping you
     awake.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Hapi's
     Harpi]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This magic harp can play music on its own without the need to pluck
     the strings. This harp has 3 charges. As a bonus action, you can
     spend 1 charge to cause the harp to play a powerful mind altering
@@ -411,15 +372,13 @@
     daily dawn.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Pink Pony
     Club:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You have advantage on Performance checks to dance while holding
     this
     club]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}

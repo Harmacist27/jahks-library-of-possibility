@@ -61,24 +61,21 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 
 -   [Glow]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The item pulses with your heartbeat, casting warm light or a cold
     glow. The item emits Bright Light in a 20-foot radius and Dim Light
     for an additional 20 feet. You can beckon or snuff out this light as
     a Bonus
     Action.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Pocket
     Space]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While holding the item, you can send it to an extradimensional
     space as a Bonus Action. You can retrieve the item from the
     extradimensional space when you roll Initiative or as a Bonus
@@ -86,40 +83,34 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     to hold
     it.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [\*Variation for Armor:
     Retractable]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You can don and doff this armor as a Bonus
     Action]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Disguise]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [As a Bonus Action, you can disguise your item into a similarly
     sized mundane item. Choose the mundane appearance when you select
     this feature. While in mundane form, the item doesn\'t appear
     magical and only a spell of 2nd level or higher reveals otherwise.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Sentience]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Not all Soul Links are sentient, but it is far from uncommon. A
     sentient soul link has its own personality that compliments the
     personality of its wielder, either by encouraging them to stay on
@@ -128,9 +119,8 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     following
     benefit:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Your Soul Link gains an Intelligence, Wisdom, and Charisma score.
     Choose one to start at 8, another to start at 10, and the final to
     start at 12. Whenever you gain a new manifestation, you can choose
@@ -146,9 +136,8 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Blinding Flash (Requires
     Glow)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You cause a bright flash of light in a 20 foot Emanation around
     you. Each creature of your choice in the area must make a DC 14
     Constitution saving throw or take 2d8 Radiant damage and have the
@@ -156,15 +145,13 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     feature 2 times and regain all expended uses when you finish a Long
     Rest.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Spellwrought
     I]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Choose 1 Cantrip from the Cleric, Druid, or Wizard spell list.
     While holding this item, you can cast that cantrip.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -174,9 +161,8 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     you finish a Long Rest.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The spellcasting ability for these spells depends on the item type
     you
     chose]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -194,9 +180,8 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Spellwrought II (Requires Spellwrought
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Choose 1 third level spell or 1 fourth level spell from the same
     spell list that you chose the original spells from. You can cast
     either spell once while holding this item and regain the ability to
@@ -209,9 +194,8 @@ wand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Spellwrought III (Requires Spellwrought
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Choose 1 fifth level spell from the same spell list that you chose
     the original spells from. You can cast the spell once while holding
     this item and regain the ability to do so when you finish a Long
@@ -234,9 +218,8 @@ that spellcaster is using.
 -   [Cantrip
     Loan]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You can try to cast a cantrip that you don\'t know. The cantrip
     must be on your spell list, and you must make a DC 10 Intelligence
     (Arcana) check. If the check succeeds, you cast the spell. If the
@@ -244,27 +227,23 @@ that spellcaster is using.
     spell is
     wasted.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Adaptable]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While holding this item, you can change one or your prepared spells
     for another one on your spell list when you finish a Short or Long
     Rest.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Battle
     Focus]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can attach the focus to a weapon or shield by pressing the focus
     against it for at least 10 minutes.Thereafter, the focus cannot be
     removed unless you detach it as an action or the weapon is
@@ -274,29 +253,25 @@ that spellcaster is using.
     while holding the attached weapon or
     shield.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Mystic
     Lens]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [As a Bonus action, you can open your mind to the weave, granting
     yourself Advantage on Arcana checks for 10 minutes. Once you use
     this feature, you must finish a Long Rest before doing so
     again.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Arcane
     Resonance]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you cast a spell using your highest available spell slot, you
     can grant a creature within 30 feet of you Temporary hit points
     equal to twice the spells
@@ -307,9 +282,8 @@ that spellcaster is using.
 -   [Alter
     Spells]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You learn two Metamagic options[ of your choice from the sorcerer
     class. You can use only one Metamagic option on a spell when you
     cast it, unless the option says otherwise. Whenever you reach a
@@ -323,15 +297,13 @@ that spellcaster is using.
     you finish a long
     rest.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Spell
     Storing]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This item stores spells cast into it, holding them until the
     wielder uses them. The item can store up to 3 levels worth of spells
     at a time. Any creature can cast a spell of level 1 through 3 into
@@ -346,40 +318,34 @@ that spellcaster is using.
     stored in it, freeing up
     space.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Enhanced I
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This focus grants a +1 bonus to your spell save DC and spell attack
     rolls.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Empowered
     I]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you cast a spell that deals damage or restores hitpoints, you
     can add 1d4 to one damage or healing roll against one target of that
     spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Spell
     Redirect]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you are targeted by a spell that only targets you, you can use
     your Reaction to redirect the spell to a different creature within
     the spell's range. When you do so, the new target makes a Dexterity
@@ -394,9 +360,8 @@ that spellcaster is using.
 -   [Arcane Surge (requires Alter Spells or at least 2 levels in
     Sorcerer)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you take a Short Rest, you can regain up to 2 of your expended
     sorcery points.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -406,22 +371,19 @@ that spellcaster is using.
 -   [Enhanced II (Requires Enhanced
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This focus grants a +2 bonus to your spell save DC and spell attack
     rolls. (instead of
     +1)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Empowered II (Required Empowered
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you cast a spell that deals damage or restores hitpoints, you
     can add 2d4 to one damage or healing roll against one target of that
     spell. (instead of
@@ -432,22 +394,19 @@ that spellcaster is using.
 -   [Enhanced III (Requires Enhanced
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This focus grants a +3 bonus to your spell save DC and spell attack
     rolls. (instead of
     +2)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Empowered III (Required Empowered
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you cast a spell that deals damage or restores hitpoints, you
     can add 3d4 to one damage or healing roll against one target of that
     spell. (instead of
@@ -468,65 +427,54 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
 
 -   [Lightweight]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You ignore the Strength requirement for this
     armor.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Quiet]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You ignore the Disadvantage on Stealth checks imposed by this
     armor.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Swift]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While wearing this armor, your Speed increases by 10
     feet.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Climbing]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While wearing this armor, you have a climbing speed equal to your
     Speed.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Swimming]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While wearing this armor, you have a swimming speed equal to your
     Speed.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Dig
     In]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Whenever you are moved against your will, you can use your Reaction
     to reduce the distance moved by 10
     feet.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -536,24 +484,21 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
 -   [Aquatic (Requires
     Swimming)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   While wearing this armor, you can breathe normally underwater and
     can cast [Shape Water]{style="font-style:italic"}[ without requiring
     verbal or somatic components. Additionally you can take the Dash
     action as a Bonus action while
     Swimming.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Verticality  (Requires
     Climbing)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   While wearing this armor, you can cast [Spider
     Climb]{style="font-style:italic"}[ on yourself without requiring a
     spell slot, concentration, material, verbal, or somatic components.
@@ -561,14 +506,12 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
     take half
     damage.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Sturdy]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Whenever you roll Initiative or when you finish a Short or Long
     Rest, you gain a number of Temporary Hitpoints equal to your
     Level.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -578,31 +521,26 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
 -   [Enhanced
     I]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This armor provides a +1 bonus to
     AC.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Resistance]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You gain Resistance to one damage type other than
     Force.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Reeling]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When a creature hits you with an attack roll, you can spend your
     reaction to force that creature to subtract 1 from all its attack
     rolls before the start or the next
@@ -613,9 +551,8 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
 -   [Last
     Stand]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [If you drop to 0 Hit Points and don't die outright, you can make a
     DC 10 Constitution saving throw. If you succeed, your Hit Points
     instead change to a number equal to your Armor Class plus your
@@ -629,21 +566,18 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
 -   [Enhanced II (Requires Enhanced
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This armor provides a +2 bonus to AC. (instead of
     +1)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Immunity (Requires
     Resistance)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You gain Immunity to the damage type you chose to gain resistance
     to, using the resistance
     feature.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -653,9 +587,8 @@ options.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-ali
 -   [Enhanced III (Requires Enhanced
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This armor provides a +3 bonus to AC. (instead of
     +2)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
@@ -673,18 +606,16 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 
 -   [Weaponized]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This shield has a built in weapon. Choose either Melee or Ranged.
     To use the associated mastery property, you must choose this built
     in weapon as one of your weapon masteries, if you have the weapon
     mastery
     feature.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Melee: STR Attack, 1d6 Bludgeoning/Piercing/Slashing (choose 1 when
     you select this feature), Mastery:
     Push]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -693,26 +624,22 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     feature), Mastery:
     Slow]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Reflective]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You have Advantage on saving throws against being
     Blinded.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Sigil
     Shield]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You can magically inscribe a symbol on the shield that glows when a
     type of creature is within 60 feet (undead, fiends, etc.---choose
     one). When you finish a Long Rest, you can change the creature
@@ -723,36 +650,31 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Shared
     Protection]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When a creature within 30 feet of you other than you is hit by an
     attack roll, you can take a Reaction to grant that target a bonus
     their AC equal to this shield's AC bonus. This bonus lasts until the
     start of your next
     turn.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Enhanced I
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This shield grants a +1 bonus to your AC while wielding
     it.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Defensive
     Pulse]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When reduced to half of your maximum hitpoints or less, your shield
     emits a burst of force. Creatures of your choice within 10 feet must
     succeed a Dexterity saving throw or be pushed back 10 feet. Once you
@@ -760,21 +682,18 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     use it
     again.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Greater Weapon (Requires
     Weaponized)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Your Shield's built in weapon grows in
     power.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Melee: The damage of this weapon increases to 1d10 and it gains the
     Topple Mastery
     Property.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -787,23 +706,20 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Counter (Requires
     Weaponized)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When a creature within your Weaponized Shield's range misses you
     with an attack, you can take a Reaction to make an attack against
     that creature using your shield's built in
     weapon.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Defensive
     Aegis]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you are hit by an attack, you can interpose your shield,
     reducing the damage by 3d10. You can use this feature twice and
     regain the ability to do so when you finish a Long
@@ -814,9 +730,8 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Shield
     Dome]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   While holding your shield you can cast [Wall of
     Force]{style="font-style:italic"} without requiring a spell slot,
     verbal, somatic, or material components. When you cast it in this
@@ -828,15 +743,13 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     Rest before doing so again.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Enhanced II (Requires Enhanced
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This shield grants a +2 bonus to your AC while wielding it.
     (instead of
     +1)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -846,9 +759,8 @@ hand.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [Enhanced III (Requires Enhanced
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   This shield grants a +3 bonus to your AC while wielding it. (instead
     of +2)
 
@@ -864,72 +776,61 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 
 -   [Handy]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You gain a +1 to ability checks that use this
     tool.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Amorphous]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [As an action, you can change this tool into any other tool that you
     are proficient
     with.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Repair (Artisan's toll
     only)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Mending]{style="font-style:italic"}[ while holding
     this
     tool.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Spectacle (Instrument
     only)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Prestidigiation]{style="font-style:italic"}[ while
     playing this
     instrument.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Diversion (Thieve's tools
     only)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Minor Illusion]{style="font-style:italic"}[ while
     holding this
     tool.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Sample (Poisoner's Kit
     only)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Poison Spray]{style="font-style:italic"}[ while
     holding this
     tool.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -938,36 +839,31 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 
 -   [Watchful]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Find Traps ]{style="font-style:italic"}[without
     requiring a spell slot while holding this tool. Use the ability
     associated with your tool as the spellcasting ability for this
     spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Quick
     Craft]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Whenever you use this tool to create a non-magical object, you can
     spend half of the time that it would normally
     require.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Frugal
     Craft]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Whenever you use this tool to create a non-magical object, you can
     spend half of the gold or materials that it would normally
     require.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -977,34 +873,29 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 -   [Quick Enchant (requires Quick
     Craft)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Whenever you use this tool to create a magical object, you can
     spend half of the time that it would normally
     require.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Frugal Enchant (requires Frugal
     Craft)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Whenever you use this tool to create a magical object, you can
     spend half of the gold or materials that it would normally
     require.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Artiface]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   Choose one Artificer Infusion. You can use this infusion using the
     same rules described in the Artificer class. You may only choose
     infusions if they do not have a level requirement.
@@ -1013,9 +904,8 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 
 -   [Fabrication]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Fabricate ]{style="font-style:italic"}using this tool.
     Use the ability associated with your tool as the spellcasting
     ability for this spell. Once you use this feature, you must finish a
@@ -1025,9 +915,8 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 
 -   [Animation]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You can cast [Animate Objects ]{style="font-style:italic"}[using
     this tool. Use the ability associated with your tool as the
     spellcasting ability for this spell. Once you use this feature, you
@@ -1042,63 +931,54 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 
 -   [Masterful]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon gains one more Mastery property of your choice. You can
     only use one mastery property at a time. You only need to have this
     weapon on your list of weapon masteries once to be able to use both
     properties.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Loyalty (Thrown weapons
     only)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon returns to your hand immediately after it hits or
     misses its
     target]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Bottomless Quiver (Ammunition weapons
     only)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon does not need to be loaded with ammunition, creating
     its own instead when
     fired.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Power
     Strike]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you hit an attack with this weapon, you can choose to deal an
     extra 1d8 damage of the weapons damage type. You can use this
     feature twice and regain the ability to do so when you finish a
     Short or Long
     rest.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Affinity]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon deals one of the following damage types instead of its
     normal damage type: Acid, Cold, Fire, Lightning, Necrotic, Poison,
     Psychic, Radiant,
@@ -1109,21 +989,18 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 -   [Enhanced
     I]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon has a +1 bonus to attack and damage
     rolls.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Empowered
     I]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon deals an additional 1d4 damage on each attack. The
     damage type is the same as the weapon normally
     deals.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -1132,9 +1009,8 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 
 -   [Counter]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When a creature within your weapon's range misses you with an
     attack, you can take a Reaction to make an attack against that
     creature using this
@@ -1145,33 +1021,28 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 -   [Enhanced II (Requires Enhanced
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon has a +2 bonus to attack and damage rolls. (instead of
     +1)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Empowered II (Requires Empowered
     I)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon deals an additional 2d4 damage on each attack. The
     damage type is the same as the weapon normally deals. (instead of
     1d4)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Reeling]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When a creature hits you with an attack roll, you can spend your
     reaction to force that creature to subtract 1 from all its attack
     rolls before the start or the next
@@ -1182,21 +1053,18 @@ solutions".]{style="color:#000000;font-weight:400;text-decoration:none;vertical-
 -   [Enhanced III (Requires Enhanced
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon has a +3 bonus to attack and damage rolls. (instead of
     +2)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Empowered III (Requires Empowered
     II)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [This weapon deals an additional 3d4 damage on each attack. The
     damage type is the same as the weapon normally deals. (instead of
     2d4)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}

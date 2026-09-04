@@ -4,9 +4,8 @@
     for the
     following]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Completing Quests (main or side
     quests)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Engaging with the story
@@ -18,9 +17,8 @@
 -   [Saving Shared Destiny points (see
     inspiration)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [If you miss a session, you will not gain the XP for that session,
     unless you write a story about what your character was doing and how
     they also gained XP while away from the group. This story must be
@@ -32,9 +30,8 @@
 -   [Shared
     Destiny]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   At the start of each session, the whole party starts with 4 Shared
     Destiny points. Each Shared Destiny Point can be used according to
     the following table: similarly to Heroic Inspiration, allowing a
@@ -91,11 +88,10 @@
     including classes, subclasses, feats, spells, and
     more.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [[Character
-    Options](https://www.google.com/url?q=https://drive.google.com/drive/folders/1bXC3jVy0JB_wemuezIEoJsEgQyGsXCc2?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219348675&usg=AOvVaw1i0kcSGqmAZHLYcdyQQhZR){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+    Options](https://www.google.com/url?q=https://drive.google.com/drive/folders/1bXC3jVy0JB_wemuezIEoJsEgQyGsXCc2?usp%3Ddrive_link&sa=D&source=editors&ust=1788509482838697&usg=AOvVaw2VBLVHO3k850w9rJpv2fTB){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
 ### [Class Tradeoffs:]{style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:\"Arial\";font-style:normal"} {#h.gq8nj6ba0zqx style="padding-top:16pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:\"Arial\";orphans:2;widows:2;text-align:left;padding-right:0"}
 
@@ -109,28 +105,24 @@
     any of
     these.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Artificer: "Costs an arm and a
     leg"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You can have 1 extra infusion active at a time, given that it
     replaces one of your lost
     limbs.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Barbarian: "Uncontrollable
     Rage"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You no longer need to track the number of rages you have available.
     When you Rage, you must make a Wisdom saving throw with a DC equal
     to 10 + your Proficiency Bonus. Failing causes you to be
@@ -138,15 +130,13 @@
     until your rage
     ends.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Bard:
     "Fame"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [While not the most famous bard, you have made somewhat of a name
     for yourself. At times, people will ask to talk with you, or for you
     to sign something of theirs. This comes with favors and small perks
@@ -154,15 +144,13 @@
     scrutiny and infamy from those who dislike you.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Cleric:
     "Fanatical"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You are a loyal and devout follower of your deity. You gain
     Expertise in Religion checks, as you have studied your holy books
     from cover to cover. As a result, you must uphold your deities
@@ -170,30 +158,26 @@
     losing your faith or incurring divine punishment.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Druid:
     "Animalistic"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You can learn up to 8 animal forms at a time. However, when you are
     Bloodied when in animal form, you become uncontrolled and
     animalistic. You must behave as that animal would and you can only
     communicate as that animal would until your wildshape ends.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Fighter: "Master of
     One"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You have specialized in one type of weapon. Instead of using
     mastery properties for multiple weapons, you instead use the mastery
     of just one type of weapon. When you do so, you gain a +1 bonus to
@@ -204,15 +188,13 @@
     attack and damage rolls with other weapons.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Monk:
     "Nonviolence"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You have taken an oath of nonviolence, and will avoid confrontation
     at all costs. Whenever you drop a creature to 0 hit points with your
     attacks, it falls unconscious rather than dying outright. You cannot
@@ -221,30 +203,26 @@
     on checks to negotiate peace and
     diplomacy.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Paladin: "Divine
     Responsibility"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Your divine sense is always active, and it can detect the presence
     of moral evil, not just special creatures. When you detect evil
     though, you must snuff it out, at all costs, no matter how powerful
     your foe
     is.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Ranger:
     "Wildborn"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You are extremely comfortable in the wild, gaining Advantage on all
     social checks while out in the wilderness. This includes checks to
     interact with animals, woodland creatures, or other forest dwellers.
@@ -252,15 +230,13 @@
     Disadvantage on all social checks when in large
     cities.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Rogue: "The
     Sense"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You can sense when someone is watching you, with the feeling
     growing more intense based on how closely you are being tracked.
     This has the downside of making you paranoid. If you are ever on
@@ -271,15 +247,13 @@
     ability checks and attack
     rolls.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Sorcerer: "Blood
     magic"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When you cast a spell with material components, you can instead use
     your body as the material component. If it has a gold piece cost,
     you must sacrifice a 1 hit point for every 10 gold that the
@@ -289,15 +263,13 @@
     not they are
     consumed.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Warlock: "On
     Call"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You have secured a very personal and strict contract with your
     patron. You can communicate with them directly, during a Short or
     Long Rest. They can give you advice or information, but anytime they
@@ -305,15 +277,13 @@
     break their pact.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Wizard:
     "Eccentric"]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You spend much more time around books than you do around people.
     You have a +1 to all Intelligence checks but a -1 to all Charisma
     checks.
@@ -359,43 +329,37 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
 -   [Additional
     Weapons]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [These are additional weapon options intended to enhance the flavor
     of your character. Suggestions
     welcome.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [[More
-    Weapons](https://www.google.com/url?q=https://docs.google.com/document/d/1yJyx7zL7oc-mvo3tbnzQCU8d6Tfiq9EqDdi_WAJDnAI/edit?usp%3Dsharing&sa=D&source=editors&ust=1788509219354808&usg=AOvVaw244O6CCdWmgoURwfpNsozL){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
+    Weapons](https://www.google.com/url?q=https://docs.google.com/document/d/1yJyx7zL7oc-mvo3tbnzQCU8d6Tfiq9EqDdi_WAJDnAI/edit?usp%3Dsharing&sa=D&source=editors&ust=1788509482844989&usg=AOvVaw1ZksO3HORz-y-wTPSZnIaK){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Firearms]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Cowboy Rules (only used in western
     settings)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
--   [[Cowboy
-    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1lHp_jrr36hs0YqMFEqAX3ta_bV8LCW9k3Q7K7Y01O9U/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219355092&usg=AOvVaw3e9yBV6oS85irChvj3gmmt){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+&nbsp;
 
-```{=html}
-<!-- -->
-```
+-   [[Cowboy
+    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1lHp_jrr36hs0YqMFEqAX3ta_bV8LCW9k3Q7K7Y01O9U/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509482845241&usg=AOvVaw0bsDqUBSIkwOAEvfO2ECjD){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+
+&nbsp;
+
 -   [Medieval Rules (only used in specific fantasy
     worlds)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [[Medieval
-    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1WS0uTUds_2K9EcJC9VLed4G9cfkFE1bS43fGPJsSk-I/edit?usp%3Dsharing&sa=D&source=editors&ust=1788509219355345&usg=AOvVaw36hrXByzDmyQXVCduUQ5RL){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
+    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1WS0uTUds_2K9EcJC9VLed4G9cfkFE1bS43fGPJsSk-I/edit?usp%3Dsharing&sa=D&source=editors&ust=1788509482845449&usg=AOvVaw0DQMWOeAZAq46RHkjq0F3o){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
 
 ## [Combat:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:\"Arial\";font-style:normal"} {#h.pfigvysvauvo style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;font-family:\"Arial\";orphans:2;widows:2;text-align:left;padding-right:0"}
 
@@ -407,7 +371,7 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     actions.
      ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [[Alternative
-    Attacks/Actions](https://www.google.com/url?q=https://docs.google.com/document/d/12WKooiuHvfDmpyrpi9ScQsW5ZcOw0sXSc3cnhkSJ6KA/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219355772&usg=AOvVaw3shD13xDq4zvo58r0LrOEj){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
+    Attacks/Actions](https://www.google.com/url?q=https://docs.google.com/document/d/12WKooiuHvfDmpyrpi9ScQsW5ZcOw0sXSc3cnhkSJ6KA/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509482845868&usg=AOvVaw3bEojS0X1OvtAOjXogmh6Q){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
 
 ### [Critical Hits: ]{style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:\"Arial\";font-style:normal"} {#h.8r7o55dnyy7e style="padding-top:16pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:\"Arial\";orphans:2;widows:2;text-align:left;padding-right:0"}
 
@@ -415,46 +379,39 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     for extra
     effect]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [For example: if you are using a greatsword, and have +3 STR, you
     will deal 2d6 + 3 + 12 (max of 2d6) on a critical
     hit]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Special effects when you crit (choose
     1)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Groin
     shot/Trip]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Prone and loses action next
     turn]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Sever
     limb]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The target loses either a leg or an
     arm]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Leg: Halved
     movement]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Arm: Disadvantage on strength and dexterity based attacks, ability
@@ -464,22 +421,19 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     relevant
     attack]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [EG: if the creature is an owlbear, severing one of it's libs
     removes it's claw
     attack]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Vital
     hit]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The target instantly loses concentration on any spells or
     abilities]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [The target loses access to one of its
@@ -488,36 +442,31 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     modifier used for the attack (1d4 damage per
     round)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Disarm]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Target must use an action(and possibly some movement) to retrieve
     their
     weapon]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [If the target uses natural weapons such as claws, refer to sever
     limb]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Head]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Blinded or Deafened
     indefinitely]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Stunned until the end of the attacker's next
     turn]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Extras up to player imagination and judged by DM
     discretion]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
@@ -555,15 +504,13 @@ magic or some special ability.
 -   [Healing potions use the following
     rules:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Using a bonus
     action:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Roll Healing as
     normal]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Imagine "Shotgunning" the
@@ -571,15 +518,13 @@ magic or some special ability.
 -   [Cannot Administer a healing potion as a bonus
     action.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Using an
     action]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Take the maximum number for the dice
     roll]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Administering a potion requires an action, but grants the full
@@ -594,9 +539,8 @@ magic or some special ability.
     is pushed into another creature, both creatures take the full
     damage.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Example 1: A battlemaster fighter uses pushing attack to push an
     enemy goblin backwards. The goblin flies 5 feet backwards and then
     hits a solid wall. Since the goblin would have moved 10 more feet if
@@ -624,10 +568,9 @@ magic or some special ability.
 -   [Crafting rules will be loosely based on the following
     document]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
--   [[Smithing](https://www.google.com/url?q=https://docs.google.com/document/d/14SPIiUqQGDcNaOAZVzIpStyNIpqgSLrYuNgRu7P4ZiM/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219360592&usg=AOvVaw3qc99Sp-V6U8k0FoBNhY41){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+&nbsp;
+
+-   [[Smithing](https://www.google.com/url?q=https://docs.google.com/document/d/14SPIiUqQGDcNaOAZVzIpStyNIpqgSLrYuNgRu7P4ZiM/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509482850511&usg=AOvVaw1aIuV-7EGa6ZlHuA_x2L6a){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [I tend to be rules-light on crafting and I encourage creativity and
     thought with it. The more you put in, the more you get
     out.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -643,9 +586,8 @@ magic or some special ability.
     following
     table]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   []{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -661,9 +603,8 @@ magic or some special ability.
 -   [Counterspell and Dispel Magic will be run using the following
     method]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [If the spell being countered is equal to or less than the level of
     the spell slot used for counterspell, the original spell has no
     effect and the action used to cast it is wasted, along with any
@@ -677,9 +618,8 @@ magic or some special ability.
     cast
     counterspell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [For example, if a wizard is trying to counter a level 5 Cone of
     Cold spell with a level 4 Counterspell, the wizard has to roll a
     d20 + their Intelligence modifier + 1 (for using a 4th level spell
@@ -687,15 +627,13 @@ magic or some special ability.
     15, which is 10 + 5 (the level of the
     spell)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Inflict
     wounds]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [We will use the 2014 version of this
     spell]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
@@ -723,14 +661,12 @@ again.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     the enemy is expecting the party:
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Hidden]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The group makes a group stealth check as they are moving around, if
     the group check beats the passive perception of the enemy, they
     continue unnoticed. Otherwise, the enemy begins to
@@ -738,14 +674,12 @@ again.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
 -   [If the party is infiltrating, or is unexpected, they start
     here]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Searching]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The enemy is not fully aware of your presence, but they begin to
     make perception checks to try and figure out what the disturbance
     is. The group rerolls a group stealth check contested with the
@@ -754,25 +688,21 @@ again.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
 -   [If the party is escaping a group of enemies, they start in this
     phase]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Seen]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The enemy notices the group and acts
     accordingly]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Surprise]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [If the group attacks before the seen phase, they get surprise
     against the enemy (see surprise in the combat
     section)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -798,9 +728,8 @@ occasion.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-al
     on the
     situation.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [DC = 10 - \# of enemies alive + \# of players that are not
     unconscious.
     ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
@@ -810,9 +739,8 @@ occasion.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-al
     for the enemies to stick around. Examples are listed
     below]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   []{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -832,16 +760,14 @@ occasion.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-al
 -   [Damage dice progression when increasing
     size]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [1 \> 1d4 \> 1d6 \> 1d8/2d4 \> 1d10 \> 1d12/2d6 \> 2d8 \> 2d10 \>
     2d12 \>
     3d8]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [When using an oversized weapon you have disadvantage on attacks
     with that weapon if you are one size smaller than the creature it
     was designed for. If you are two sizes smaller, then you are not
@@ -864,15 +790,13 @@ occasion.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-al
     following
     requirements]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Players: Only one spell uses a spell
     slot]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [EX: A druid casting Spike growth (action) and a shillelagh (bonus
     action)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [EX: A drow cleric casting healing word (bonus action) and using the

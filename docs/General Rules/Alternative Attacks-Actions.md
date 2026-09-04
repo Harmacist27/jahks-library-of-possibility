@@ -7,31 +7,26 @@ deal:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 
 -   [Grapple]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [(Same as 2024 PHB, See Unarmed Strike in the Rules
     Glossary)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Shove]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [(Same as 2024 PHB, See Unarmed Strike in the Rules
     Glossary)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Disarm]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [If the target is holding onto a weapon or another object, you can
     make an attack roll contested by the target's Strength or Dexterity
     score (Whichever is higher). If the attack roll is equal to or
@@ -39,24 +34,21 @@ deal:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     15ft in a horizontal direction of your
     choice.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Find
     Weakness]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Choose a creature within 30 ft, you attempt to discover a weakness
     in that creature's defenses. Make an Intelligence (Investigation)
     check contested by the target's passive Charisma (Deception). If the
     check succeeds, you can learn one or more of the following about the
     target:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [The target's
     AC]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [The target's lowest ability
@@ -70,14 +62,12 @@ deal:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
 -   [One of the monster's special
     abilities]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Goad]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You attempt to insult one creature within 30 ft of you. Make a
     Charisma (Performance) check contested by the target\'s Wisdom
     Saving throw. If the target fails the check, they have disadvantage
@@ -86,28 +76,24 @@ deal:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     those spells or abilities include other creatures in an area of
     effect.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Intimidate]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You attempt to scare off one creature within 30 ft of you. Make a
     Strength (Intimidation) check contested by the target\'s Wisdom
     Saving throw. If the target fails the saving throw, they are
     frightened of you until the end of your next
     turn.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Find]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   You attempt to locate a hidden or invisible creature within range.
     Make a Wisdom (Perception) check contested by the target's Dexterity
     (Stealth) check. The target makes this check with advantage if they
@@ -116,14 +102,12 @@ deal:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:
     the check succeeds, the creature is no longer hidden from
     you.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Befriend]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [You attempt to pacify a creature within 30 ft of you. Make a
     Charisma (Persuasion) Check contested by the target\'s Wisdom Saving
     throw. Alternatively the DM can set a DC instead of rolling. If the

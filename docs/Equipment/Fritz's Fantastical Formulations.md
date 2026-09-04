@@ -409,9 +409,8 @@ Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertica
 -   [Potion of Quick Respite (185
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Healing x2 (100
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Restoration (60
@@ -419,15 +418,13 @@ Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertica
 -   [Quick Chug Flask (25
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Potion of the Bulwark (210
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Defense (50
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Resistance (100
@@ -437,15 +434,13 @@ Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertica
 -   [Standard Flask (10
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Viper Strike Potion (235
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Poison (40
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Paralyzation (70
@@ -455,15 +450,13 @@ Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertica
 -   [Blade-ready Flask (25
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Spider-kin Potion (135
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Dexterity (45
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Communication, Animals (25
@@ -473,15 +466,13 @@ Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertica
 -   [Voluminous Flask (25
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Potion of the Fire Mage (400
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Elementalism, Fire X2 (100
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Arcane Boost (50
@@ -491,15 +482,13 @@ Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertica
 -   [Reinforced Flask (25
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Potion of the Hawk (150
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
-```{=html}
-<!-- -->
-```
+&nbsp;
+
 -   [Flight (60
     GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [Swiftness (55
