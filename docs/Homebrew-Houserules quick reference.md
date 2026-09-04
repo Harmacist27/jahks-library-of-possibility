@@ -95,7 +95,7 @@
 <!-- -->
 ```
 -   [[Character
-    Options](https://www.google.com/url?q=https://drive.google.com/drive/folders/1bXC3jVy0JB_wemuezIEoJsEgQyGsXCc2?usp%3Ddrive_link&sa=D&source=editors&ust=1788508988535438&usg=AOvVaw2GqXF0PYDOHRhgiMSGz8Bi){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+    Options](https://www.google.com/url?q=https://drive.google.com/drive/folders/1bXC3jVy0JB_wemuezIEoJsEgQyGsXCc2?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219348675&usg=AOvVaw1i0kcSGqmAZHLYcdyQQhZR){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
 ### [Class Tradeoffs:]{style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:\"Arial\";font-style:normal"} {#h.gq8nj6ba0zqx style="padding-top:16pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:\"Arial\";orphans:2;widows:2;text-align:left;padding-right:0"}
 
@@ -366,7 +366,7 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     of your character. Suggestions
     welcome.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [[More
-    Weapons](https://www.google.com/url?q=https://docs.google.com/document/d/1yJyx7zL7oc-mvo3tbnzQCU8d6Tfiq9EqDdi_WAJDnAI/edit?usp%3Dsharing&sa=D&source=editors&ust=1788508988542763&usg=AOvVaw29Rdy7aRk9ZWnadmcHfty7){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
+    Weapons](https://www.google.com/url?q=https://docs.google.com/document/d/1yJyx7zL7oc-mvo3tbnzQCU8d6Tfiq9EqDdi_WAJDnAI/edit?usp%3Dsharing&sa=D&source=editors&ust=1788509219354808&usg=AOvVaw244O6CCdWmgoURwfpNsozL){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
 
 ```{=html}
 <!-- -->
@@ -383,7 +383,7 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
 <!-- -->
 ```
 -   [[Cowboy
-    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1lHp_jrr36hs0YqMFEqAX3ta_bV8LCW9k3Q7K7Y01O9U/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788508988543066&usg=AOvVaw3RQajcXTNJUJyMdlQnYoTu){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1lHp_jrr36hs0YqMFEqAX3ta_bV8LCW9k3Q7K7Y01O9U/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219355092&usg=AOvVaw3e9yBV6oS85irChvj3gmmt){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 
 ```{=html}
 <!-- -->
@@ -395,7 +395,7 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
 <!-- -->
 ```
 -   [[Medieval
-    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1WS0uTUds_2K9EcJC9VLed4G9cfkFE1bS43fGPJsSk-I/edit?usp%3Dsharing&sa=D&source=editors&ust=1788508988543283&usg=AOvVaw20ZO1AS1Hswru0Zd2VWpTZ){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
+    Firearms](https://www.google.com/url?q=https://docs.google.com/document/d/1WS0uTUds_2K9EcJC9VLed4G9cfkFE1bS43fGPJsSk-I/edit?usp%3Dsharing&sa=D&source=editors&ust=1788509219355345&usg=AOvVaw36hrXByzDmyQXVCduUQ5RL){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
 
 ## [Combat:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:\"Arial\";font-style:normal"} {#h.pfigvysvauvo style="padding-top:18pt;margin:0;color:#000000;padding-left:0;font-size:16pt;padding-bottom:6pt;line-height:1.15;page-break-after:avoid;font-family:\"Arial\";orphans:2;widows:2;text-align:left;padding-right:0"}
 
@@ -407,7 +407,7 @@ spell.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align
     actions.
      ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [[Alternative
-    Attacks/Actions](https://www.google.com/url?q=https://docs.google.com/document/d/12WKooiuHvfDmpyrpi9ScQsW5ZcOw0sXSc3cnhkSJ6KA/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788508988543769&usg=AOvVaw32VonmcbtxSUPRLqzn3VAj){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
+    Attacks/Actions](https://www.google.com/url?q=https://docs.google.com/document/d/12WKooiuHvfDmpyrpi9ScQsW5ZcOw0sXSc3cnhkSJ6KA/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219355772&usg=AOvVaw3shD13xDq4zvo58r0LrOEj){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}
 
 ### [Critical Hits: ]{style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:\"Arial\";font-style:normal"} {#h.8r7o55dnyy7e style="padding-top:16pt;margin:0;color:#434343;padding-left:0;font-size:14pt;padding-bottom:4pt;line-height:1.15;page-break-after:avoid;font-family:\"Arial\";orphans:2;widows:2;text-align:left;padding-right:0"}
 
@@ -627,7 +627,7 @@ magic or some special ability.
 ```{=html}
 <!-- -->
 ```
--   [[Smithing](https://www.google.com/url?q=https://docs.google.com/document/d/14SPIiUqQGDcNaOAZVzIpStyNIpqgSLrYuNgRu7P4ZiM/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788508988549291&usg=AOvVaw3_Yp8Qd4_Bj7qxatVCrAou){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+-   [[Smithing](https://www.google.com/url?q=https://docs.google.com/document/d/14SPIiUqQGDcNaOAZVzIpStyNIpqgSLrYuNgRu7P4ZiM/edit?usp%3Ddrive_link&sa=D&source=editors&ust=1788509219360592&usg=AOvVaw3qc99Sp-V6U8k0FoBNhY41){style="color:inherit;text-decoration:inherit"}]{style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"}[ ]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
 -   [I tend to be rules-light on crafting and I encourage creativity and
     thought with it. The more you put in, the more you get
     out.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
