@@ -1,6 +1,7 @@
 import os
 import json
 import io
+import re
 import pypandoc
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
@@ -13,6 +14,16 @@ CREDS_JSON = os.environ['GOOGLE_CREDENTIALS']
 creds_dict = json.loads(CREDS_JSON)
 creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 drive_service = build('drive', 'v3', credentials=creds)
+
+def clean_markdown_styles(text):
+    """Strips Google Docs inline CSS attribute brackets and leftover spans."""
+    # Removes patterns like [Text]{style="..."} -> Text
+    text = re.sub(r'\[([^\]]+)\]\{style="[^"]*?\}', r'\1', text)
+    # Removes dangling style tags like ]{style="..."}
+    text = re.sub(r'\]\{style="[^"]*?\}', '', text)
+    # Removes standalone span/div attributes
+    text = re.sub(r'\{style="[^"]*?\}', '', text)
+    return text
 
 def download_folder(folder_id, local_path):
     os.makedirs(local_path, exist_ok=True)
@@ -33,20 +44,20 @@ def download_folder(folder_id, local_path):
                 _, done = downloader.next_chunk()
             
             html_content = fh.getvalue().decode('utf-8')
-            # Convert HTML while stripping out inline CSS styles, font spans, and raw HTML wrappers
-            md_content = pypandoc.convert_text(
-                html_content, 
-                'markdown-raw_html-native_spans-native_divs', 
-                format='html'
-            )
+            
+            # Convert HTML from Google Docs to Markdown
+            md_content = pypandoc.convert_text(html_content, 'gfm', format='html')
+            
+            # Post-process and strip out residual Google Docs style brackets
+            clean_md = clean_markdown_styles(md_content)
             
             file_path = os.path.join(local_path, f"{name}.md")
             with open(file_path, 'w', encoding='utf-8') as f:
-                f.write(md_content)
+                f.write(clean_md)
+
 if __name__ == '__main__':
     download_folder(FOLDER_ID, 'docs')
     
-    # Create a default index.md if it wasn't provided in Google Drive
     index_path = os.path.join('docs', 'index.md')
     if not os.path.exists(index_path):
         with open(index_path, 'w', encoding='utf-8') as f:
