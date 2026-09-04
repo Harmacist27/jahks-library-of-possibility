@@ -8,7 +8,7 @@ from googleapiclient.http import MediaIoBaseDownload
 
 SCOPES = ['https://www.googleapis.com/auth/drive.readonly']
 FOLDER_ID = os.environ['GDRIVE_FOLDER_ID']
-CREDS_JSON = os.environ['GDRIVE_SERVICE_ACCOUNT_KEY']
+CREDS_JSON = os.environ['GOOGLE_CREDENTIALS']
 
 creds_dict = json.loads(CREDS_JSON)
 creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
