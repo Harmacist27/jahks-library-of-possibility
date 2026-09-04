@@ -39,6 +39,11 @@ def download_folder(folder_id, local_path):
             file_path = os.path.join(local_path, f"{name}.md")
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(md_content)
-
 if __name__ == '__main__':
     download_folder(FOLDER_ID, 'docs')
+    
+    # Create a default index.md if it wasn't provided in Google Drive
+    index_path = os.path.join('docs', 'index.md')
+    if not os.path.exists(index_path):
+        with open(index_path, 'w', encoding='utf-8') as f:
+            f.write("# Welcome to Jahk's Library of Possibility\n\nUse the navigation bar above or the sidebar to browse homebrew options.\n")
