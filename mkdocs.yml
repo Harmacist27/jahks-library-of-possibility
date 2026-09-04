@@ -5,24 +5,26 @@ site_author: Jahk
 theme:
   name: material
   palette:
-    # Palette toggle for dark/light mode
-    - scheme: slate
-      primary: red
-      accent: deep orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    # Light mode (default)
     - scheme: default
-      primary: red
-      accent: deep orange
+      primary: green
+      accent: light green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
-    - navigation.tabs          # Places top-level folders in a top navigation bar
+    - navigation.tabs          # Places top-level folders in the top navigation bar
     - navigation.sections      # Groups items cleanly in the sidebar
     - navigation.top           # Adds a "Back to top" button when scrolling
     - navigation.expand        # Expands sidebar categories by default
+    - navigation.indexes       # Allows folder main pages to act as category titles
     - search.suggest           # Live search suggestions
     - search.highlight         # Highlights searched words on the page
     - content.code.copy        # Adds copy buttons to code/stat blocks
@@ -30,10 +32,24 @@ theme:
 markdown_extensions:
   - attr_list
   - tables
-  - admonition               # Great for callout boxes (notes, DM tips, monster traits)
+  - admonition               # Callout boxes (DM notes, rules highlights)
   - pymdownx.details         # Collapsible callout boxes
-  - pymdownx.superfences     # Advanced block formatting
+  - pymdownx.superfences     # Code and stat block formatting
 
-# Automatically builds the sidebar and nav strictly based on your docs/ folder structure
-nav:
-  - Home: index.md
+# Note: The `nav:` block has been removed so MkDocs automatically scans 
+# your `docs/` folder structure and builds the entire sidebar and top bar for you.
+```eof
+
+### What Changed & Why:
+
+1. **Sidebar Fix:** The previous configuration hardcoded `nav: - Home: index.md`, which told MkDocs to *only* display the home page and hide all other synced folders. Removing the `nav:` block allows MkDocs to automatically crawl all synced folders (`Character Options`, `Equipment`, `General Rules`, etc.) and populate the top bar and sidebar tabs dynamically.
+2. **Color Update:** Updated `primary` and `accent` under `palette` from `red`/`deep orange` to `green`/`light green`.
+
+### How to Apply the Update:
+
+Replace your local `mkdocs.yml` file with the generated code above, then commit and push to GitHub:
+
+```bash
+git add mkdocs.yml
+git commit -m "Change theme color to green and fix dynamic sidebar navigation"
+git push origin main
