@@ -1,131 +1,138 @@
-[Simple]{style="font-weight:700"}[ - requires no moving parts and is
-generally one piece of metal shaped quite quickly into form. All simple
-weapons and some types of armor, like
-breastplate.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-weight:700">Simple</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> -
+requires no moving parts and is generally one piece of metal shaped
+quite quickly into form. All simple weapons and some types of armor,
+like breastplate.</span>
 
-[Moderate]{style="font-weight:700"}[ - requires multiple pieces of metal
-shaped into a more intricate form. All martial weapons, except certain
-types, and some armor falls in this
-category.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-weight:700">Moderate</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> -
+requires multiple pieces of metal shaped into a more intricate form. All
+martial weapons, except certain types, and some armor falls in this
+category.</span>
 
-[Complex]{style="font-weight:700"}[ - requires lots of pieces and many
-moving parts. Some martial weapons and most armor belong to this
-category.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-weight:700">Complex</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> -
+requires lots of pieces and many moving parts. Some martial weapons and
+most armor belong to this category.</span>
 
-[Crafting
-time]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Crafting
+time</span>
 
-[Simple ]{style="font-weight:700"}- [weight / 4 = \# of days needed to
-craft; minimum 1 day, round
-up]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+<span style="font-weight:700">Simple </span>-
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">weight
+/ 4 = \# of days needed to craft; minimum 1 day, round up</span>
 
-[Moderate ]{style="font-weight:700"}- [weight / 2 = \# of days needed to
-craft; minimum 1 day, round
-up]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+<span style="font-weight:700">Moderate </span>-
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">weight
+/ 2 = \# of days needed to craft; minimum 1 day, round up</span>
 
-[Complex ]{style="font-weight:700"}- [weight = \# of days needed to
-craft; minimum 1 day, round
-up]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+<span style="font-weight:700">Complex </span>-
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">weight
+= \# of days needed to craft; minimum 1 day, round up</span>
 
-[For a few examples, this means
-that:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">For
+a few examples, this means that:</span>
 
-[Shield]{style="font-style:italic"} ([Simple]{style="font-weight:700"}[)
-6lbs = 2 days of
-crafting]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-style:italic">Shield</span> (<span style="font-weight:700">Simple</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">)
+6lbs = 2 days of crafting</span>
 
-[Scale Mail
-]{style="font-style:italic"}([Moderate]{style="font-weight:700"}[) 45lbs
-= 23 days of
-crafting]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-style:italic">Scale Mail
+</span>(<span style="font-weight:700">Moderate</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">)
+45lbs = 23 days of crafting</span>
 
-[Ringmail
-]{style="font-style:italic"}([Complex]{style="font-weight:700"}[) 40lbs
-= 40 days of
-crafting]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-style:italic">Ringmail
+</span>(<span style="font-weight:700">Complex</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">)
+40lbs = 40 days of crafting</span>
 
-But that doesn't cover it all. Ringmail and Chainmail are highly complex
+But that doesn’t cover it all. Ringmail and Chainmail are highly complex
 in that they require up to thousands of rings crafted, but the
 individual rings can be crafted by themselves and so they can use our
 mini-anvil by a campfire. To determine how big something is, we will
 have to look at each item on a case-by-case basis and separate them into
-two categories: [Campfire ]{style="font-weight:700"}or
-[Forge]{style="font-weight:700"}[.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+two categories: <span style="font-weight:700">Campfire </span>or
+<span style="font-weight:700">Forge</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">.</span>
 
 And that category is pretty self explanatory. If something can be
-crafted at the campfire, it'll be in the [Campfire
-]{style="font-weight:700"}category, everything else will fall into the
-[Forge]{style="font-weight:700"}[ category.
-]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+crafted at the campfire, it’ll be in the
+<span style="font-weight:700">Campfire </span>category, everything else
+will fall into the
+<span style="font-weight:700">Forge</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> category.
+</span>
 
 So now that we have our different complexities sorted, our different
-qualities, what can be crafted where, it's time to figure out Craft DCs.
+qualities, what can be crafted where, it’s time to figure out Craft DCs.
 I am going to start with a base DC of 13. I am starting with a base of
 13 as I assume blacksmiths have a slightly higher strength, like 12 or
 13, and they have a +2 proficiency, which means the average they will
 get when rolling a d20 over and over again will be 13 (10 base + 2
 prof + 1 str). For each level of complexity, we will add 1 to the DC. So
-[Moderate]{style="font-weight:700"} will be DC 14 and
-[Complex]{style="font-weight:700"}[ will be DC
-15.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="font-weight:700">Moderate</span> will be DC 14 and
+<span style="font-weight:700">Complex</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> will
+be DC 15.</span>
 
-And then for [Masterwork]{style="font-weight:700"}, we will raise the DC
-by 8 so that [Simple]{style="font-weight:700"} is DC 21, [Moderate
-]{style="font-weight:700"}DC 22 & [Complex ]{style="font-weight:700"}[DC
+And then for <span style="font-weight:700">Masterwork</span>, we will
+raise the DC by 8 so that <span style="font-weight:700">Simple</span> is
+DC 21, <span style="font-weight:700">Moderate </span>DC 22 &
+<span style="font-weight:700">Complex
+</span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">DC
 23. My thinking behind that is that when a character is level 20 and
 retiring as a world famous blacksmith, they will have a +6 proficiency,
 a (if a strength based character) +5 to their strength. This gives them
-an average of 21 when they roll a d20. I wouldn't find it unbelievable
+an average of 21 when they roll a d20. I wouldn’t find it unbelievable
 for a master craftsmen to have masterwork quality goods on average,
-since they are known for their amazing
-quality.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+since they are known for their amazing quality.</span>
 
-Chain shirt ([Complex]{style="font-weight:700"}) 20lbs, [20 days
-]{style="font-style:italic"}/ [DC15 ]{style="font-weight:700"}- [3 craft
-checks]{style="font-style:italic"} / [cost: ]{style="font-weight:700"}25
-gp /
-[Campfire]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+Chain shirt (<span style="font-weight:700">Complex</span>) 20lbs,
+<span style="font-style:italic">20 days </span>/
+<span style="font-weight:700">DC15 </span>-
+<span style="font-style:italic">3 craft checks</span> /
+<span style="font-weight:700">cost: </span>25 gp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Campfire</span>
 
-Plate ([Complex]{style="font-weight:700"}) 65lbs, [65 days
-]{style="font-style:italic"}/ [DC15]{style="font-weight:700"} - [10
-craft checks ]{style="font-style:italic"}/
-[cost:]{style="font-weight:700"} 750 gp /
-[Forge]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+Plate (<span style="font-weight:700">Complex</span>) 65lbs,
+<span style="font-style:italic">65 days </span>/
+<span style="font-weight:700">DC15</span> -
+<span style="font-style:italic">10 craft checks </span>/
+<span style="font-weight:700">cost:</span> 750 gp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Forge</span>
 
-Scale Mail ([Moderate]{style="font-weight:700"}) 45lbs, [23 days
-]{style="font-style:italic"}/ [DC14 ]{style="font-weight:700"}- [4 craft
-checks ]{style="font-style:italic"}/ [cost:]{style="font-weight:700"} 25
-gp /
-[Campfire]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+Scale Mail (<span style="font-weight:700">Moderate</span>) 45lbs,
+<span style="font-style:italic">23 days </span>/
+<span style="font-weight:700">DC14 </span>-
+<span style="font-style:italic">4 craft checks </span>/
+<span style="font-weight:700">cost:</span> 25 gp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Campfire</span>
 
-Rapier ([Moderate]{style="font-weight:700"}) 2lbs, [1 day
-]{style="font-style:italic"}/ [DC14 ]{style="font-weight:700"}- [1 craft
-check ]{style="font-style:italic"}/ [cost:]{style="font-weight:700"} 12
-gp 5 sp /
-[Campfire]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+Rapier (<span style="font-weight:700">Moderate</span>) 2lbs,
+<span style="font-style:italic">1 day </span>/
+<span style="font-weight:700">DC14 </span>-
+<span style="font-style:italic">1 craft check </span>/
+<span style="font-weight:700">cost:</span> 12 gp 5 sp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Campfire</span>
 
-[Masterwork ]{style="font-weight:700"}Dagger
-([Simple]{style="font-weight:700"}) 1lb, [2 days
-]{style="font-style:italic"}/ [DC21 ]{style="font-weight:700"}- [1 craft
-check ]{style="font-style:italic"}/ [cost: ]{style="font-weight:700"}3
-gp /
-[Campfire]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+<span style="font-weight:700">Masterwork </span>Dagger
+(<span style="font-weight:700">Simple</span>) 1lb,
+<span style="font-style:italic">2 days </span>/
+<span style="font-weight:700">DC21 </span>-
+<span style="font-style:italic">1 craft check </span>/
+<span style="font-weight:700">cost: </span>3 gp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Campfire</span>
 
-[Masterwork ]{style="font-weight:700"}Flail
-([Complex]{style="font-weight:700"}) 2lbs, [2 days
-]{style="font-style:italic"}/ [DC23 - ]{style="font-weight:700"}[1 craft
-check ]{style="font-style:italic"}/ [cost:]{style="font-weight:700"} 30
-gp /
-[Campfire]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+<span style="font-weight:700">Masterwork </span>Flail
+(<span style="font-weight:700">Complex</span>) 2lbs,
+<span style="font-style:italic">2 days </span>/
+<span style="font-weight:700">DC23 -
+</span><span style="font-style:italic">1 craft check </span>/
+<span style="font-weight:700">cost:</span> 30 gp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Campfire</span>
 
-[Scrap ]{style="font-weight:700"}Glaive
-([Moderate]{style="font-weight:700"}) 6lbs, [3 days
-]{style="font-style:italic"}/ [No Check ]{style="font-weight:700"}/
-[cost: ]{style="font-weight:700"}10 gp /
-[Forge]{style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:italic"}
+<span style="font-weight:700">Scrap </span>Glaive
+(<span style="font-weight:700">Moderate</span>) 6lbs,
+<span style="font-style:italic">3 days </span>/
+<span style="font-weight:700">No Check </span>/
+<span style="font-weight:700">cost: </span>10 gp /
+<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Forge</span>
 
-[Scrap ]{style="font-weight:700"}War Pick
-([Moderate]{style="font-weight:700"}) 2lbs, [1 day
-]{style="font-style:italic"}/ [No Check]{style="font-weight:700"} /
-[cost: ]{style="font-weight:700"}2 gp 5 sp /
-[Campfire]{style="font-weight:700;font-style:italic"}
+<span style="font-weight:700">Scrap </span>War Pick
+(<span style="font-weight:700">Moderate</span>) 2lbs,
+<span style="font-style:italic">1 day </span>/
+<span style="font-weight:700">No Check</span> /
+<span style="font-weight:700">cost: </span>2 gp 5 sp /
+<span style="font-weight:700;font-style:italic">Campfire</span>

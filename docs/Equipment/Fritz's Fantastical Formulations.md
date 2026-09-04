@@ -1,5 +1,5 @@
-[Fritz's Fantastical
-Formulation]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:26pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:26pt;font-family:&quot;Arial&quot;;font-style:normal">Fritz’s
+Fantastical Formulation</span>
 
 Each potion takes one action to drink and lasts for one minute by
 default. Multiple effects can be combined and modified to create a
@@ -7,493 +7,553 @@ unique potion experience. Each potion has a number of effects and types
 of flask. Up to 3 effects can be chosen. Most effects are repeatable,
 stacking the benefits of each one. For example, using 2 healing effects
 would cause the potion to heal for 4d8+8. Those that are not repeatable
-are marked with an asterix[ (\*). Some effects are listed as Debuffs, if
-an effect is a debuff, the target can try to resist the effect by
-succeeding on a DC 14 Constitution saving throw. Any debuff that deals
-damage will deal half damage on a successful save. Different flask types
-allow the potion to be administered in different ways or allow it to
-bypass certain restrictions outlined above. If a potion is applied to a
-blade or piece of ammunition, once one attack hits a target, the whole
-potion is spent, regardless of how many pieces of ammunition the potion
-is used on. When a potion is applied on a weapon, it remains stable for
-one minute, if the potion is not used before that time ends, then the
-potion is no longer usable and the effects of the potion
-dissipate.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+are marked with an
+asterix<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> (\*).
+Some effects are listed as Debuffs, if an effect is a debuff, the target
+can try to resist the effect by succeeding on a DC 14 Constitution
+saving throw. Any debuff that deals damage will deal half damage on a
+successful save. Different flask types allow the potion to be
+administered in different ways or allow it to bypass certain
+restrictions outlined above. If a potion is applied to a blade or piece
+of ammunition, once one attack hits a target, the whole potion is spent,
+regardless of how many pieces of ammunition the potion is used on. When
+a potion is applied on a weapon, it remains stable for one minute, if
+the potion is not used before that time ends, then the potion is no
+longer usable and the effects of the potion dissipate.</span>
 
-[]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
 
-[Effect
-Options]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Effect
+Options</span>
 
-+-----------------------+-----------------------+-----------------------+
-| [Name]{style="color   | [Buff]{style="color   | [Cost]{style="color   |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [Good                 | [Bless Spell (just    | [40                   |
-| Fo                    | cast on               | GP]{style="color      |
-| rtune\*]{style="color | rec                   | :#000000;font-weight: |
-| :#000000;font-weight: | ipient)]{style="color | 400;text-decoration:n |
-| 400;text-decoration:n | :#000000;font-weight: | one;vertical-align:ba |
-| one;vertical-align:ba | 400;text-decoration:n | seline;font-size:11pt |
-| seline;font-size:11pt | one;vertical-align:ba | ;font-family:\"Arial\ |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ";font-style:normal"} |
-| ";font-style:normal"} | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Strength, Dexterity, | [ADV on ability       | [45                   |
-| Constitution,         | checks related to an  | GP]{style="color      |
-| Intelligence, Wisdom, | ability]{style="color | :#000000;font-weight: |
-| or                    | :#000000;font-weight: | 400;text-decoration:n |
-| C                     | 400;text-decoration:n | one;vertical-align:ba |
-| harisma]{style="color | one;vertical-align:ba | seline;font-size:11pt |
-| :#000000;font-weight: | seline;font-size:11pt | ;font-family:\"Arial\ |
-| 400;text-decoration:n | ;font-family:\"Arial\ | ";font-style:normal"} |
-| one;vertical-align:ba | ";font-style:normal"} |                       |
-| seline;font-size:11pt |                       |                       |
-| ;font-family:\"Arial\ |                       |                       |
-| ";font-style:normal"} |                       |                       |
-|                       |                       |                       |
-| [(pick a different    |                       |                       |
-| ability for each      |                       |                       |
-| repe                  |                       |                       |
-| tition)]{style="color |                       |                       |
-| :#000000;font-weight: |                       |                       |
-| 400;text-decoration:n |                       |                       |
-| one;vertical-align:ba |                       |                       |
-| seline;font-size:11pt |                       |                       |
-| ;font-family:\"Arial\ |                       |                       |
-| ";font-style:normal"} |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Healing/Fo           | [2d8+4 Healing or     | [50                   |
-| rtitude]{style="color | Temp                  | GP]{style="color      |
-| :#000000;font-weight: | HP]{style="color      | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Restor               | [Lesser Restoration   | [60                   |
-| ation\*]{style="color | Spell]{style="color   | GP]{style="color      |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [F                    | [Flying speed equal   | [60                   |
-| light\*]{style="color | to your walking       | GP]{style="color      |
-| :#000000;font-weight: | speed]{style="color   | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Swim\*]{style="color | [Swimming speed equal | [30                   |
-| :#000000;font-weight: | to your walking speed | GP]{style="color      |
-| 400;text-decoration:n | and the ability to    | :#000000;font-weight: |
-| one;vertical-align:ba | breath under          | 400;text-decoration:n |
-| seline;font-size:11pt | water]{style="color   | one;vertical-align:ba |
-| ;font-family:\"Arial\ | :#000000;font-weight: | seline;font-size:11pt |
-| ";font-style:normal"} | 400;text-decoration:n | ;font-family:\"Arial\ |
-|                       | one;vertical-align:ba | ";font-style:normal"} |
-|                       | seline;font-size:11pt |                       |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Spider               | [Climbing speed equal | [40                   |
-| Climb\*]{style="color | to your walking       | GP]{style="color      |
-| :#000000;font-weight: | speed, and the        | :#000000;font-weight: |
-| 400;text-decoration:n | ability to climb      | 400;text-decoration:n |
-| one;vertical-align:ba | along vertical        | one;vertical-align:ba |
-| seline;font-size:11pt | surfaces and          | seline;font-size:11pt |
-| ;font-family:\"Arial\ | c                     | ;font-family:\"Arial\ |
-| ";font-style:normal"} | eilings]{style="color | ";font-style:normal"} |
-|                       | :#000000;font-weight: |                       |
-|                       | 400;text-decoration:n |                       |
-|                       | one;vertical-align:ba |                       |
-|                       | seline;font-size:11pt |                       |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Spell                | [Replenish 1 Spell    | [25 GP per Spell      |
-| Re                    | Slot (up to level     | Level]{style="color   |
-| fueling]{style="color | 5)]{style="color      | :#000000;font-weight: |
-| :#000000;font-weight: | :#000000;font-weight: | 400;text-decoration:n |
-| 400;text-decoration:n | 400;text-decoration:n | one;vertical-align:ba |
-| one;vertical-align:ba | one;vertical-align:ba | seline;font-size:11pt |
-| seline;font-size:11pt | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ";font-style:normal"} |
-| ";font-style:normal"} | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Power]{style="color  | [+2 Damage on weapon  | [50                   |
-| :#000000;font-weight: | attacks and unarmed   | GP]{style="color      |
-| 400;text-decoration:n | strikes]{style="color | :#000000;font-weight: |
-| one;vertical-align:ba | :#000000;font-weight: | 400;text-decoration:n |
-| seline;font-size:11pt | 400;text-decoration:n | one;vertical-align:ba |
-| ;font-family:\"Arial\ | one;vertical-align:ba | seline;font-size:11pt |
-| ";font-style:normal"} | seline;font-size:11pt | ;font-family:\"Arial\ |
-|                       | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [                     | [+1                   | [50                   |
-| Defense]{style="color | AC]{style="color      | GP]{style="color      |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [Invisib              | [Invisible until      | [60                   |
-| ility\*]{style="color | target attacks or     | GP]{style="color      |
-| :#000000;font-weight: | casts a               | :#000000;font-weight: |
-| 400;text-decoration:n | spell]{style="color   | 400;text-decoration:n |
-| one;vertical-align:ba | :#000000;font-weight: | one;vertical-align:ba |
-| seline;font-size:11pt | 400;text-decoration:n | seline;font-size:11pt |
-| ;font-family:\"Arial\ | one;vertical-align:ba | ;font-family:\"Arial\ |
-| ";font-style:normal"} | seline;font-size:11pt | ";font-style:normal"} |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Sw                   | [Double Movement      | [55                   |
-| iftness]{style="color | Speed]{style="color   | GP]{style="color      |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [Eleme                | [+2 Damage to spells  | [50                   |
-| ntalism]{style="color | and abilities that    | GP]{style="color      |
-| :#000000;font-weight: | deal acid, cold,      | :#000000;font-weight: |
-| 400;text-decoration:n | fire, lightning,      | 400;text-decoration:n |
-| one;vertical-align:ba | poison, or thunder    | one;vertical-align:ba |
-| seline;font-size:11pt | damage (pick          | seline;font-size:11pt |
-| ;font-family:\"Arial\ | one)]{style="color    | ;font-family:\"Arial\ |
-| ";font-style:normal"} | :#000000;font-weight: | ";font-style:normal"} |
-|                       | 400;text-decoration:n |                       |
-| [(Picking the same    | one;vertical-align:ba |                       |
-| element twice         | seline;font-size:11pt |                       |
-| increases the         | ;font-family:\"Arial\ |                       |
-| damage)]{style="color | ";font-style:normal"} |                       |
-| :#000000;font-weight: |                       |                       |
-| 400;text-decoration:n |                       |                       |
-| one;vertical-align:ba |                       |                       |
-| seline;font-size:11pt |                       |                       |
-| ;font-family:\"Arial\ |                       |                       |
-| ";font-style:normal"} |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Arcane               | [Increase spell save  | [50                   |
-| Boost]{style="color   | DC and spell attack   | GP]{style="color      |
-| :#000000;font-weight: | bonus by              | :#000000;font-weight: |
-| 400;text-decoration:n | +1]{style="color      | 400;text-decoration:n |
-| one;vertical-align:ba | :#000000;font-weight: | one;vertical-align:ba |
-| seline;font-size:11pt | 400;text-decoration:n | seline;font-size:11pt |
-| ;font-family:\"Arial\ | one;vertical-align:ba | ;font-family:\"Arial\ |
-| ";font-style:normal"} | seline;font-size:11pt | ";font-style:normal"} |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Dar                  | [+60 feet of          | [25                   |
-| kvision]{style="color | dar                   | GP]{style="color      |
-| :#000000;font-weight: | kvision]{style="color | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Commun               | [Speak with Animals,  | [25                   |
-| ication]{style="color | Speak With Plants,    | GP]{style="color      |
-| :#000000;font-weight: | Speak with Dead, or   | :#000000;font-weight: |
-| 400;text-decoration:n | learn one new         | 400;text-decoration:n |
-| one;vertical-align:ba | language for the      | one;vertical-align:ba |
-| seline;font-size:11pt | duration.             | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ]{style="color        | ;font-family:\"Arial\ |
-| ";font-style:normal"} | :#000000;font-weight: | ";font-style:normal"} |
-|                       | 400;text-decoration:n |                       |
-|                       | one;vertical-align:ba |                       |
-|                       | seline;font-size:11pt |                       |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Res                  | [Resistance to one    | [100                  |
-| istance]{style="color | damage type of your   | GP]{style="color      |
-| :#000000;font-weight: | choice]{style="color  | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-| [(Chose a different   |                       |                       |
-| damage type for each  |                       |                       |
-| repe                  |                       |                       |
-| tition)]{style="color |                       |                       |
-| :#000000;font-weight: |                       |                       |
-| 400;text-decoration:n |                       |                       |
-| one;vertical-align:ba |                       |                       |
-| seline;font-size:11pt |                       |                       |
-| ;font-family:\"Arial\ |                       |                       |
-| ";font-style:normal"} |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Name]{style="color   | [Debuff]{style="color | [Cost]{style="color   |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [                     | [Enlarge              | [50                   |
-| Growth/]{style="color | /Reduce]{style="color | GP]{style="color      |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-|                       |                       |                       |
-| [Di                   |                       |                       |
-| mmution]{style="color |                       |                       |
-| :#000000;font-weight: |                       |                       |
-| 400;text-decoration:n |                       |                       |
-| one;vertical-align:ba |                       |                       |
-| seline;font-size:11pt |                       |                       |
-| ;font-family:\"Arial\ |                       |                       |
-| ";font-style:normal"} |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Ill                  | [Bane                 | [60                   |
-| Fo                    | Spell]{style="color   | GP]{style="color      |
-| rtune\*]{style="color | :#000000;font-weight: | :#000000;font-weight: |
-| :#000000;font-weight: | 400;text-decoration:n | 400;text-decoration:n |
-| 400;text-decoration:n | one;vertical-align:ba | one;vertical-align:ba |
-| one;vertical-align:ba | seline;font-size:11pt | seline;font-size:11pt |
-| seline;font-size:11pt | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ;font-family:\"Arial\ | ";font-style:normal"} | ";font-style:normal"} |
-| ";font-style:normal"} |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Acid]{style="color   | [3d6 Acid             | [40                   |
-| :#000000;font-weight: | damage]{style="color  | GP]{style="color      |
-| 400;text-decoration:n | :#000000;font-weight: | :#000000;font-weight: |
-| one;vertical-align:ba | 400;text-decoration:n | 400;text-decoration:n |
-| seline;font-size:11pt | one;vertical-align:ba | one;vertical-align:ba |
-| ;font-family:\"Arial\ | seline;font-size:11pt | seline;font-size:11pt |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-|                       | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [Decay]{style="color  | [2d6 Necrotic damage  | [40                   |
-| :#000000;font-weight: | and the target can't  | GP]{style="color      |
-| 400;text-decoration:n | regain hit points for | :#000000;font-weight: |
-| one;vertical-align:ba | the                   | 400;text-decoration:n |
-| seline;font-size:11pt | d                     | one;vertical-align:ba |
-| ;font-family:\"Arial\ | uration]{style="color | seline;font-size:11pt |
-| ";font-style:normal"} | :#000000;font-weight: | ;font-family:\"Arial\ |
-|                       | 400;text-decoration:n | ";font-style:normal"} |
-|                       | one;vertical-align:ba |                       |
-|                       | seline;font-size:11pt |                       |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Poison]{style="color | [2d6 Poison damage    | [40                   |
-| :#000000;font-weight: | and the Poisoned      | GP]{style="color      |
-| 400;text-decoration:n | Co                    | :#000000;font-weight: |
-| one;vertical-align:ba | ndition]{style="color | 400;text-decoration:n |
-| seline;font-size:11pt | :#000000;font-weight: | one;vertical-align:ba |
-| ;font-family:\"Arial\ | 400;text-decoration:n | seline;font-size:11pt |
-| ";font-style:normal"} | one;vertical-align:ba | ;font-family:\"Arial\ |
-|                       | seline;font-size:11pt | ";font-style:normal"} |
-|                       | ;font-family:\"Arial\ |                       |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Stun\*]{style="color | [Stunned              | [60                   |
-| :#000000;font-weight: | Co                    | GP]{style="color      |
-| 400;text-decoration:n | ndition]{style="color | :#000000;font-weight: |
-| one;vertical-align:ba | :#000000;font-weight: | 400;text-decoration:n |
-| seline;font-size:11pt | 400;text-decoration:n | one;vertical-align:ba |
-| ;font-family:\"Arial\ | one;vertical-align:ba | seline;font-size:11pt |
-| ";font-style:normal"} | seline;font-size:11pt | ;font-family:\"Arial\ |
-|                       | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Paralyz              | [Paralyzed            | [70                   |
-| ation\*]{style="color | Co                    | GP]{style="color      |
-| :#000000;font-weight: | ndition]{style="color | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Petrific             | [Petrified            | [100                  |
-| ation\*]{style="color | Co                    | GP]{style="color      |
-| :#000000;font-weight: | ndition]{style="color | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [Blin                 | [Blinded              | [50                   |
-| dness\*]{style="color | Co                    | GP]{style="color      |
-| :#000000;font-weight: | ndition]{style="color | :#000000;font-weight: |
-| 400;text-decoration:n | :#000000;font-weight: | 400;text-decoration:n |
-| one;vertical-align:ba | 400;text-decoration:n | one;vertical-align:ba |
-| seline;font-size:11pt | one;vertical-align:ba | seline;font-size:11pt |
-| ;font-family:\"Arial\ | seline;font-size:11pt | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ;font-family:\"Arial\ | ";font-style:normal"} |
-|                       | ";font-style:normal"} |                       |
-+-----------------------+-----------------------+-----------------------+
-| [S                    | [-10 feet movement    | [25                   |
-| lowness]{style="color | speed]{style="color   | GP]{style="color      |
-| :#000000;font-weight: | :#000000;font-weight: | :#000000;font-weight: |
-| 400;text-decoration:n | 400;text-decoration:n | 400;text-decoration:n |
-| one;vertical-align:ba | one;vertical-align:ba | one;vertical-align:ba |
-| seline;font-size:11pt | seline;font-size:11pt | seline;font-size:11pt |
-| ;font-family:\"Arial\ | ;font-family:\"Arial\ | ;font-family:\"Arial\ |
-| ";font-style:normal"} | ";font-style:normal"} | ";font-style:normal"} |
-+-----------------------+-----------------------+-----------------------+
-| [Vulner               | [The target becomes   | [100                  |
-| ability]{style="color | vulnerable to one     | GP]{style="color      |
-| :#000000;font-weight: | damage type for the   | :#000000;font-weight: |
-| 400;text-decoration:n | du                    | 400;text-decoration:n |
-| one;vertical-align:ba | ration.]{style="color | one;vertical-align:ba |
-| seline;font-size:11pt | :#000000;font-weight: | seline;font-size:11pt |
-| ;font-family:\"Arial\ | 400;text-decoration:n | ;font-family:\"Arial\ |
-| ";font-style:normal"} | one;vertical-align:ba | ";font-style:normal"} |
-|                       | seline;font-size:11pt |                       |
-| [(Chose a different   | ;font-family:\"Arial\ |                       |
-| damage type for each  | ";font-style:normal"} |                       |
-| repe                  |                       |                       |
-| tition)]{style="color |                       |                       |
-| :#000000;font-weight: |                       |                       |
-| 400;text-decoration:n |                       |                       |
-| one;vertical-align:ba |                       |                       |
-| seline;font-size:11pt |                       |                       |
-| ;font-family:\"Arial\ |                       |                       |
-| ";font-style:normal"} |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+<table
+style="border-spacing:0;border-collapse:collapse;margin-right:auto">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; background-color: #cccccc; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Name</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; background-color: #cccccc; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Buff</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; background-color: #cccccc; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Cost</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Good
+Fortune*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Bless
+Spell (just cast on recipient)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">40
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Strength,
+Dexterity, Constitution, Intelligence, Wisdom, or Charisma</span></p>
+<p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">(pick
+a different ability for each repetition)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">ADV
+on ability checks related to an ability</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">45
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Healing/Fortitude</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2d8+4
+Healing or Temp HP</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Restoration*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Lesser
+Restoration Spell</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">60
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Flight*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Flying
+speed equal to your walking speed</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">60
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Swim*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Swimming
+speed equal to your walking speed and the ability to breath under
+water</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">30
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Spider
+Climb*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Climbing
+speed equal to your walking speed, and the ability to climb along
+vertical surfaces and ceilings</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">40
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Spell
+Refueling</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Replenish
+1 Spell Slot (up to level 5)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25
+GP per Spell Level</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Power</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+2
+Damage on weapon attacks and unarmed strikes</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Defense</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+1
+AC</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Invisibility*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Invisible
+until target attacks or casts a spell</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">60
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Swiftness</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Double
+Movement Speed</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">55
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Elementalism</span></p>
+<p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">(Picking
+the same element twice increases the damage)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+2
+Damage to spells and abilities that deal acid, cold, fire, lightning,
+poison, or thunder damage (pick one)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Arcane
+Boost</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Increase
+spell save DC and spell attack bonus by +1</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:22.4pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Darkvision</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+60
+feet of darkvision</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Communication</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Speak
+with Animals, Speak With Plants, Speak with Dead, or learn one new
+language for the duration. </span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Resistance</span></p>
+<p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">(Chose
+a different damage type for each repetition)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Resistance
+to one damage type of your choice</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">100
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; background-color: #cccccc; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Name</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; background-color: #cccccc; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Debuff</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; background-color: #cccccc; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Cost</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Growth/</span></p>
+<p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Dimmution</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Enlarge/Reduce</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Ill
+Fortune*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Bane
+Spell</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">60
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Acid</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">3d6
+Acid damage</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">40
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Decay</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2d6
+Necrotic damage and the target can’t regain hit points for the
+duration</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">40
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Poison</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2d6
+Poison damage and the Poisoned Condition</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">40
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Stun*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Stunned
+Condition</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">60
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Paralyzation*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Paralyzed
+Condition</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">70
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Petrification*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Petrified
+Condition</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">100
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Blindness*</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Blinded
+Condition</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">50
+GP</span></p></td>
+</tr>
+<tr class="odd" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Slowness</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">-10
+feet movement speed</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25
+GP</span></p></td>
+</tr>
+<tr class="even" style="height:0pt">
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Vulnerability</span></p>
+<p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">(Chose
+a different damage type for each repetition)</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">The
+target becomes vulnerable to one damage type for the
+duration.</span></p></td>
+<td
+style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 156pt; border-top-color: #000000; border-bottom-style: solid"><p><span
+style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">100
+GP</span></p></td>
+</tr>
+</tbody>
+</table>
 
-[Flask
-Options]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Flask
+Options</span>
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------
-  [Name]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}         [Bonus]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}                                                                                                                                                                                                                 [Cost]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  [Standard]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}     [None]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}                                                                                                                                                                                                                  [10 GP]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  [Swift]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}        [Bonus Action to drink or administer potion]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}                                                                                                                                                                            [25 GP]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  [Voluminous]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}   [Potion effects last for 1 hour]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}                                                                                                                                                                                        [25 GP]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  [Reinforced]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}   [Potion can have up to 6 effects.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}                                                                                                                                                                                      [25 GP]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  [Anointing]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}    [Allows the potion to be applied to a weapon or up to 10 pieces of ammunition. This can be done as a Bonus Action.]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}                                                                                                     [25 GP]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  [Splash]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}       [Can be thrown, affecting a 5 foot radius sphere, centered on where the potion lands. Thrown range is equal to 10 feet \* thrower's Strength Modifier (minimum of 10 feet). Throwing the potion counts as one attack]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}   [25 GP]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
-  --------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                      |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Name</span>       | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Bonus</span>                                                                                                                                                                                                               | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Cost</span>  |
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Standard</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">None</span>                                                                                                                                                                                                                | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10 GP</span> |
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Swift</span>      | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Bonus Action to drink or administer potion</span>                                                                                                                                                                          | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25 GP</span> |
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Voluminous</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Potion effects last for 1 hour</span>                                                                                                                                                                                      | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25 GP</span> |
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Reinforced</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Potion can have up to 6 effects.</span>                                                                                                                                                                                    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25 GP</span> |
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Anointing</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Allows the potion to be applied to a weapon or up to 10 pieces of ammunition. This can be done as a Bonus Action.</span>                                                                                                   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25 GP</span> |
+| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Splash</span>     | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Can be thrown, affecting a 5 foot radius sphere, centered on where the potion lands. Thrown range is equal to 10 feet \* thrower’s Strength Modifier (minimum of 10 feet). Throwing the potion counts as one attack</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">25 GP</span> |
 
-[]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
 
-[Example
-Formulations:]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Example
+Formulations:</span>
 
--   [Potion of Quick Respite (185
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Potion
+  of Quick Respite (185 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Healing x2 (100
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Restoration (60
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Quick Chug Flask (25
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Healing
+  x2 (100 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Restoration
+  (60 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Quick
+  Chug Flask (25 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Potion of the Bulwark (210
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Potion
+  of the Bulwark (210 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Defense (50
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Resistance (100
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Fortitude (50
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Standard Flask (10
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Defense
+  (50 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Resistance
+  (100 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Fortitude
+  (50 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Standard
+  Flask (10 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Viper Strike Potion (235
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Viper
+  Strike Potion (235 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Poison (40
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Paralyzation (70
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Vulnerability, Poison (100
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Blade-ready Flask (25
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Poison
+  (40 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Paralyzation
+  (70 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Vulnerability,
+  Poison (100 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Blade-ready
+  Flask (25 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Spider-kin Potion (135
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Spider-kin
+  Potion (135 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Dexterity (45
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Communication, Animals (25
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Spider Climb (40
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Voluminous Flask (25
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Dexterity
+  (45 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Communication,
+  Animals (25 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Spider
+  Climb (40 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Voluminous
+  Flask (25 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Potion of the Fire Mage (400
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Potion
+  of the Fire Mage (400 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Elementalism, Fire X2 (100
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Arcane Boost (50
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Spell Refueling, 3rd Level x3 (225
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Reinforced Flask (25
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Elementalism,
+  Fire X2 (100 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Arcane
+  Boost (50 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Spell
+  Refueling, 3rd Level x3 (225 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Reinforced
+  Flask (25 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Potion of the Hawk (150
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Potion
+  of the Hawk (150 GP)</span>
 
-&nbsp;
+<!-- -->
 
--   [Flight (60
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Swiftness (55
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Darkvision (25
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
--   [Standard Flask (10
-    GP)]{style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:\"Arial\";font-style:normal"}
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Flight
+  (60 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Swiftness
+  (55 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Darkvision
+  (25 GP)</span>
+- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Standard
+  Flask (10 GP)</span>
