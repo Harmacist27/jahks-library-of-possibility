@@ -11,7 +11,7 @@ theme:
       accent: light green
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Switch to light mode
     # Dark mode
     - scheme: slate
       primary: green
@@ -35,21 +35,3 @@ markdown_extensions:
   - admonition               # Callout boxes (DM notes, rules highlights)
   - pymdownx.details         # Collapsible callout boxes
   - pymdownx.superfences     # Code and stat block formatting
-
-# Note: The `nav:` block has been removed so MkDocs automatically scans 
-# your `docs/` folder structure and builds the entire sidebar and top bar for you.
-```eof
-
-### What Changed & Why:
-
-1. **Sidebar Fix:** The previous configuration hardcoded `nav: - Home: index.md`, which told MkDocs to *only* display the home page and hide all other synced folders. Removing the `nav:` block allows MkDocs to automatically crawl all synced folders (`Character Options`, `Equipment`, `General Rules`, etc.) and populate the top bar and sidebar tabs dynamically.
-2. **Color Update:** Updated `primary` and `accent` under `palette` from `red`/`deep orange` to `green`/`light green`.
-
-### How to Apply the Update:
-
-Replace your local `mkdocs.yml` file with the generated code above, then commit and push to GitHub:
-
-```bash
-git add mkdocs.yml
-git commit -m "Change theme color to green and fix dynamic sidebar navigation"
-git push origin main
