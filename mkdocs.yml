@@ -1,0 +1,39 @@
+site_name: Jahk's Library of Possibility
+site_description: A homebrew D&D wiki automatically synced from Google Drive.
+site_author: Jahk
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for dark/light mode
+    - scheme: slate
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: red
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs          # Places top-level folders in a top navigation bar
+    - navigation.sections      # Groups items cleanly in the sidebar
+    - navigation.top           # Adds a "Back to top" button when scrolling
+    - navigation.expand        # Expands sidebar categories by default
+    - search.suggest           # Live search suggestions
+    - search.highlight         # Highlights searched words on the page
+    - content.code.copy        # Adds copy buttons to code/stat blocks
+
+markdown_extensions:
+  - attr_list
+  - tables
+  - admonition               # Great for callout boxes (notes, DM tips, monster traits)
+  - pymdownx.details         # Collapsible callout boxes
+  - pymdownx.superfences     # Advanced block formatting
+
+# Automatically builds the sidebar and nav strictly based on your docs/ folder structure
+nav:
+  - Home: index.md
