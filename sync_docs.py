@@ -33,8 +33,12 @@ def download_folder(folder_id, local_path):
                 _, done = downloader.next_chunk()
             
             html_content = fh.getvalue().decode('utf-8')
-            # Convert HTML from Google Docs into clean Markdown while keeping tables and formatting
-            md_content = pypandoc.convert_text(html_content, 'md', format='html')
+            # Convert HTML while stripping out inline CSS styles, font spans, and raw HTML wrappers
+            md_content = pypandoc.convert_text(
+                html_content, 
+                'markdown-raw_html-native_spans-native_divs', 
+                format='html'
+            )
             
             file_path = os.path.join(local_path, f"{name}.md")
             with open(file_path, 'w', encoding='utf-8') as f:
