@@ -2,3 +2,5 @@ google-api-python-client
 google-auth
 pypandoc
 mkdocs-material
+beautifulsoup4
+lxml
