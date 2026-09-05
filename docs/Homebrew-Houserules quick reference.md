@@ -91,7 +91,7 @@
 <!-- -->
 
 - <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a
-  href="https://www.google.com/url?q=https://drive.google.com/drive/folders/1bXC3jVy0JB_wemuezIEoJsEgQyGsXCc2?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589446893463&amp;usg=AOvVaw3L6TlgPO3fA7TPiZ18CMEE"
+  href="https://www.google.com/url?q=https://drive.google.com/drive/folders/1bXC3jVy0JB_wemuezIEoJsEgQyGsXCc2?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589798836173&amp;usg=AOvVaw260nFj5nXQJ2MbuX6G3Swh"
   style="color:inherit;text-decoration:inherit">Character Options</a></span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> </span>
 
 ### <span style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:&quot;Arial&quot;;font-style:normal">Class Tradeoffs:</span>
@@ -334,7 +334,7 @@ this is the Mage Armor spell.</span>
   are additional weapon options intended to enhance the flavor of your
   character. Suggestions welcome.</span>
 - <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a
-  href="https://www.google.com/url?q=https://docs.google.com/document/d/1yJyx7zL7oc-mvo3tbnzQCU8d6Tfiq9EqDdi_WAJDnAI/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1788589446903333&amp;usg=AOvVaw1PAzZIwq9HImW9T_oads9U"
+  href="https://www.google.com/url?q=https://docs.google.com/document/d/1yJyx7zL7oc-mvo3tbnzQCU8d6Tfiq9EqDdi_WAJDnAI/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1788589798847619&amp;usg=AOvVaw3UlG02SUZk-dKlvC8cujSR"
   style="color:inherit;text-decoration:inherit">More Weapons</a></span>
 
 <!-- -->
@@ -349,7 +349,7 @@ this is the Mage Armor spell.</span>
 <!-- -->
 
 - <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a
-  href="https://www.google.com/url?q=https://docs.google.com/document/d/1lHp_jrr36hs0YqMFEqAX3ta_bV8LCW9k3Q7K7Y01O9U/edit?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589446903733&amp;usg=AOvVaw0B-QTpbXYqMykxJ227IZNs"
+  href="https://www.google.com/url?q=https://docs.google.com/document/d/1lHp_jrr36hs0YqMFEqAX3ta_bV8LCW9k3Q7K7Y01O9U/edit?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589798847989&amp;usg=AOvVaw010OC6_K0p4PbhuDdBdrqm"
   style="color:inherit;text-decoration:inherit">Cowboy Firearms</a></span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> </span>
 
 <!-- -->
@@ -360,7 +360,7 @@ this is the Mage Armor spell.</span>
 <!-- -->
 
 - <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a
-  href="https://www.google.com/url?q=https://docs.google.com/document/d/1WS0uTUds_2K9EcJC9VLed4G9cfkFE1bS43fGPJsSk-I/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1788589446904046&amp;usg=AOvVaw0kTmtks3fMP5LcKoMCWVWa"
+  href="https://www.google.com/url?q=https://docs.google.com/document/d/1WS0uTUds_2K9EcJC9VLed4G9cfkFE1bS43fGPJsSk-I/edit?usp%3Dsharing&amp;sa=D&amp;source=editors&amp;ust=1788589798848262&amp;usg=AOvVaw1bdzfE05rv-ohjLosN18CO"
   style="color:inherit;text-decoration:inherit">Medieval Firearms</a></span>
 
 ## <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:16pt;font-family:&quot;Arial&quot;;font-style:normal">Combat:</span>
@@ -373,7 +373,7 @@ this is the Mage Armor spell.</span>
   replace one or more of your attacks with a use of these actions.
    </span>
 - <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a
-  href="https://www.google.com/url?q=https://docs.google.com/document/d/12WKooiuHvfDmpyrpi9ScQsW5ZcOw0sXSc3cnhkSJ6KA/edit?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589446904797&amp;usg=AOvVaw24fZ04xtfLhmDMMTdOJsp1"
+  href="https://www.google.com/url?q=https://docs.google.com/document/d/12WKooiuHvfDmpyrpi9ScQsW5ZcOw0sXSc3cnhkSJ6KA/edit?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589798848911&amp;usg=AOvVaw0abYL5DLf1Faq55xLJoPLL"
   style="color:inherit;text-decoration:inherit">Alternative
   Attacks/Actions</a></span>
 
@@ -580,7 +580,7 @@ magic or some special ability.
 <!-- -->
 
 - <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline"><a
-  href="https://www.google.com/url?q=https://docs.google.com/document/d/14SPIiUqQGDcNaOAZVzIpStyNIpqgSLrYuNgRu7P4ZiM/edit?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589446912573&amp;usg=AOvVaw37_8h_azAvwXVb8H9zrnd4"
+  href="https://www.google.com/url?q=https://docs.google.com/document/d/14SPIiUqQGDcNaOAZVzIpStyNIpqgSLrYuNgRu7P4ZiM/edit?usp%3Ddrive_link&amp;sa=D&amp;source=editors&amp;ust=1788589798856221&amp;usg=AOvVaw21YnK1-3sbnwbOxNlrdfMR"
   style="color:inherit;text-decoration:inherit">Smithing</a></span><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> </span>
 - <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">I
   tend to be rules-light on crafting and I encourage creativity and
