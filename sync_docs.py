@@ -2,6 +2,7 @@ import os
 import json
 import io
 import re
+import urllib.parse
 import pypandoc
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
@@ -15,14 +16,33 @@ creds_dict = json.loads(CREDS_JSON)
 creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 drive_service = build('drive', 'v3', credentials=creds)
 
+def clean_google_redirects(text):
+    """Unwraps Google Docs redirect URLs to their clean original destination."""
+    def unwrap(match):
+        raw_url = match.group(1)
+        parsed = urllib.parse.urlparse(raw_url)
+        query_params = urllib.parse.parse_qs(parsed.query)
+        if 'q' in query_params:
+            return query_params['q'][0]
+        return raw_url
+
+    # Matches https://www.google.com/url?q=... strings
+    pattern = r'https://www\.google\.com/url\?q=([^&"\'\s>]+)[^"\'\s>]*'
+    return re.sub(pattern, unwrap, text)
+
 def clean_markdown_styles(text):
-    """Strips Google Docs inline CSS attribute brackets and leftover spans."""
+    """Strips Google Docs inline CSS attributes, raw href tags, and leftover spans."""
+    # Unwrap Google redirect links first
+    text = clean_google_redirects(text)
+
     # Removes patterns like [Text]{style="..."} -> Text
-    text = re.sub(r'\[([^\]]+)\]\{style="[^"]*?\}', r'\1', text)
-    # Removes dangling style tags like ]{style="..."}
-    text = re.sub(r'\]\{style="[^"]*?\}', '', text)
-    # Removes standalone span/div attributes
-    text = re.sub(r'\{style="[^"]*?\}', '', text)
+    text = re.sub(r'\[([^\]]+)\]\{style="[^"]*?"\}', r'\1', text)
+    # Removes dangling style tags like ]{style="..."} or style="..."
+    text = re.sub(r'\]?\{style="[^"]*?"\}', '', text)
+    text = re.sub(r'style="[^"]*?"', '', text)
+    # Removes leftover raw href wrappers like href="..."
+    text = re.sub(r'href="[^"]*?"', '', text)
+
     return text
 
 def download_folder(folder_id, local_path):
@@ -48,7 +68,7 @@ def download_folder(folder_id, local_path):
             # Convert HTML from Google Docs to Markdown
             md_content = pypandoc.convert_text(html_content, 'gfm', format='html')
             
-            # Post-process and strip out residual Google Docs style brackets
+            # Post-process and strip out residual style tags and clean links
             clean_md = clean_markdown_styles(md_content)
             
             file_path = os.path.join(local_path, f"{name}.md")
