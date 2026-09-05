@@ -9,9 +9,7 @@
 | <span >Primary Ability</span>            | <span >Strength and Dexterity</span>                                    |
 | <span >Hit Point Die</span>              | <span >D10 per Acrobat level</span>                                     |
 | <span >Saving Throw Proficiencies</span> | <span >Strength and Dexterity</span>                                    |
-| <span >Skill Proficiencies</span>        | <span >Choose 3:</span><a                                                                                                                                                                       
-                                                                                     
-                                                                   > </a>Acrobatics, Animal Handling, Athletics, Deception, Intimidation, Performance, Persuasion, Sleight of Hand, Stealth                                                     |
+| <span >Skill Proficiencies</span>        | <span >Choose 3:</span> Acrobatics, Animal Handling, Athletics, Deception, Intimidation, Performance, Persuasion, Sleight of Hand, Stealth                                                      |
 | <span >Weapon Proficiencies</span>       | <span >Simple and Martial weapons</span>                                |
 | <span >Tool Proficiencies</span>         | Disguise Kit                                                                                                                                                                                                             |
 | <span >Armor Training</span>             | <span >None</span>                                                      |
