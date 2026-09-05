@@ -2,6 +2,8 @@ import os
 import json
 import io
 import re
+import urllib.parse
+from bs4 import BeautifulSoup
 import pypandoc
 from google.oauth2.service_account import Credentials
 from googleapiclient.discovery import build
@@ -15,15 +17,44 @@ creds_dict = json.loads(CREDS_JSON)
 creds = Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 drive_service = build('drive', 'v3', credentials=creds)
 
-def clean_markdown_styles(text):
-    """Strips Google Docs inline CSS attribute brackets and leftover spans."""
-    # Removes patterns like [Text]{style="..."} -> Text
-    text = re.sub(r'\[([^\]]+)\]\{style="[^"]*?\}', r'\1', text)
-    # Removes dangling style tags like ]{style="..."}
-    text = re.sub(r'\]\{style="[^"]*?\}', '', text)
-    # Removes standalone span/div attributes
-    text = re.sub(r'\{style="[^"]*?\}', '', text)
-    return text
+def demote_headers(md_text):
+    """
+    Shifts Markdown headers down by 1 level (# -> ##, ## -> ###)
+    so MkDocs treats top-level Doc titles as H2s in the TOC sidebar.
+    """
+    lines = md_text.splitlines()
+    new_lines = []
+    for line in lines:
+        if line.startswith('#'):
+            # Convert '# Header' to '## Header', '## Header' to '### Header', etc.
+            new_lines.append('#' + line)
+        else:
+            new_lines.append(line)
+    return '\n'.join(new_lines)
+
+def clean_google_html(html_content):
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    for a in soup.find_all('a'):
+        href = a.get('href', '')
+        if 'google.com/url?q=' in href:
+            parsed = urllib.parse.urlparse(href)
+            query_params = urllib.parse.parse_qs(parsed.query)
+            if 'q' in query_params:
+                clean_url = query_params['q'][0]
+                a['href'] = clean_url
+        if 'style' in a.attrs:
+            del a['style']
+
+    for td in soup.find_all(['td', 'th']):
+        for br in td.find_all('br'):
+            br.replace_with(' ')
+
+    for tag in soup.find_all(True):
+        if 'style' in tag.attrs:
+            del tag['style']
+
+    return str(soup)
 
 def download_folder(folder_id, local_path):
     os.makedirs(local_path, exist_ok=True)
@@ -43,17 +74,18 @@ def download_folder(folder_id, local_path):
             while not done:
                 _, done = downloader.next_chunk()
             
-            html_content = fh.getvalue().decode('utf-8')
+            raw_html = fh.getvalue().decode('utf-8')
+            cleaned_html = clean_google_html(raw_html)
             
-            # Convert HTML from Google Docs to Markdown
-            md_content = pypandoc.convert_text(html_content, 'gfm', format='html')
+            # Convert HTML to Markdown
+            md_content = pypandoc.convert_text(cleaned_html, 'gfm', format='html')
             
-            # Post-process and strip out residual Google Docs style brackets
-            clean_md = clean_markdown_styles(md_content)
+            # Demote header levels automatically for MkDocs TOC compatibility
+            formatted_md = demote_headers(md_content)
             
             file_path = os.path.join(local_path, f"{name}.md")
             with open(file_path, 'w', encoding='utf-8') as f:
-                f.write(clean_md)
+                f.write(formatted_md)
 
 if __name__ == '__main__':
     download_folder(FOLDER_ID, 'docs')
