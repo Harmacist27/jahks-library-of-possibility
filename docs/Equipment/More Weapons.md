@@ -1,44 +1,35 @@
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
+|                        |                 |                                                                    |         |        |        |
+|------------------------|-----------------|--------------------------------------------------------------------|---------|--------|--------|
+| Name                   | Damage          | Properties                                                         | Mastery | Weight | Cost   |
+| Simple Melee Weapons   |                 |                                                                    |         |        |        |
+| Chain                  | 1d6 Bludgeoning | Heavy, Two-handed, Reach                                           | Topple  | 10 lb. | 5 GP   |
+| Macuahulti             | 1d6 Slashing    | Versatile (1d8)                                                    | Sap     | 2 lb   | 2 GP   |
+| Nunchucks              | 1d4 Bludgeoning | Light, Finesse                                                     | Nick    | ½ lb.  | 1 GP   |
+| Scythe                 | 1d6 Slashing    | Versatile (1d8)                                                    | Slow    | 5 lb.  | 1 GP   |
+| Simple Ranged Weapons  |                 |                                                                    |         |        |        |
+| Throwing Star          | 1d4 Piercing    | Light, Thrown (20/60)                                              | Nick    | ¼ lb.  | 1 SP   |
+| Martial Melee Weapons  |                 |                                                                    |         |        |        |
+| Hook Sword             | 1d6 Slashing    | Light, Finesse                                                     | Topple  | 2 lb.  | 10 GP  |
+| Executioner's Sword    | 2d8 Slashing    | Two-Handed, Ultra Heavy                                            | Cleave  | 9 lb.  | 250 GP |
+| Colossus Hammer        | 2d8 Bludgeoning | Two-Handed, Ultra Heavy                                            | Push    | 12 lb. | 225 GP |
+| Martial Ranged Weapons |                 |                                                                    |         |        |        |
+| Chakram                | 1d6 Slashing    | Thrown (30/120), Finesse, Return                                   | Graze   | 1 lb.  | 5 GP   |
+| Boomerang              | 1d4 Bludgeoning | Thrown (80/320), Finesse, Return                                   | Sap     | ½ lb.  | 2 GP   |
+| Daikyu                 | 1d10 Piercing   | Ammunition (Range 150/600; Arrow), Ultra Heavy, Two-Handed         | Slow    | 4 lb.  | 250 GP |
+| Arbalest               | 1d12 Piercing   | Ammunition (Range 100/400; Bolt), Ultra Heavy, Loading, Two-Handed | Push    | 26 lb. | 300 GP |
 
-|                                                                                                                                                                                    |                                                                                                                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                       |                                                                                                                                                                       |                                                                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="font-weight:700">Name</span>                                                                                                                                          | <span style="font-weight:700">Damage</span>                                                                                                                                    | <span style="font-weight:700">Properties</span>                                                                                                                                                                                   | <span style="font-weight:700">Mastery</span>                                                                                                                          | <span style="font-weight:700">Weight</span>                                                                                                                           | <span style="font-weight:700">Cost</span>                                                                                                                             |
-| <span style="font-style:italic">Simple Melee Weapons</span>                                                                                                                        |                                                                                                                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                       |                                                                                                                                                                       |                                                                                                                                                                       |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Chain</span>               | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d6 Bludgeoning</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Heavy, Two-handed, Reach</span>                                           | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Topple</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10 lb.</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">5 GP</span>   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Macuahulti</span>          | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d6 Slashing</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Versatile (1d8)</span>                                                    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Sap</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2 lb</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2 GP</span>   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Nunchucks</span>           | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d4 Bludgeoning</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Light, Finesse</span>                                                     | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Nick</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">½ lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1 GP</span>   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Scythe</span>              | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d6 Slashing</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Versatile (1d8)</span>                                                    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Slow</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">5 lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1 GP</span>   |
-| <span style="font-style:italic">Simple Ranged Weapons</span>                                                                                                                       |                                                                                                                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                       |                                                                                                                                                                       |                                                                                                                                                                       |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Throwing Star</span>       | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d4 Piercing</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Light, Thrown (20/60)</span>                                              | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Nick</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">¼ lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1 SP</span>   |
-| <span style="font-style:italic">Martial Melee Weapons</span>                                                                                                                       |                                                                                                                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                       |                                                                                                                                                                       |                                                                                                                                                                       |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Hook Sword</span>          | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d6 Slashing</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Light, Finesse</span>                                                     | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Topple</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2 lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10 GP</span>  |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Executioner's Sword</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2d8 Slashing</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Two-Handed, Ultra Heavy</span>                                            | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Cleave</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">9 lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">250 GP</span> |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Colossus Hammer</span>     | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2d8 Bludgeoning</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Two-Handed, Ultra Heavy</span>                                            | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Push</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">12 lb.</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">225 GP</span> |
-| <span style="font-style:italic">Martial Ranged Weapons</span>                                                                                                                      |                                                                                                                                                                                |                                                                                                                                                                                                                                   |                                                                                                                                                                       |                                                                                                                                                                       |                                                                                                                                                                       |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Chakram</span>             | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d6 Slashing</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Thrown (30/120), Finesse, Return</span>                                   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Graze</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1 lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">5 GP</span>   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Boomerang</span>           | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d4 Bludgeoning</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Thrown (80/320), Finesse, Return</span>                                   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Sap</span>    | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">½ lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2 GP</span>   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Daikyu</span>              | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d10 Piercing</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Ammunition (Range 150/600; Arrow), Ultra Heavy, Two-Handed</span>         | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Slow</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">4 lb.</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">250 GP</span> |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Arbalest</span>            | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1d12 Piercing</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Ammunition (Range 100/400; Bolt), Ultra Heavy, Loading, Two-Handed</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Push</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">26 lb.</span> | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">300 GP</span> |
-
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
-
-### <span style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:&quot;Arial&quot;;font-style:normal">Weapon Properties:</span>
-
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">  
-Return: A weapon that has the Return property returns to the wielder’s
-hands after hits or misses a target that it was thrown at.</span>
+#### Weapon Properties:
 
   
-Ultra Heavy: You have
-Disadvantage<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"> on
-attack rolls with an Ultra Heavy weapon if it’s a Melee weapon and your
-Strength score isn’t at least 15 or if it’s a Ranged weapon and your
-Dexterity score isn’t at least 15.</span>
+Return: A weapon that has the Return property returns to the wielder’s
+hands after hits or misses a target that it was thrown at.
 
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
+  
+Ultra Heavy: You have Disadvantage on attack rolls with an Ultra Heavy
+weapon if it’s a Melee weapon and your Strength score isn’t at least 15
+or if it’s a Ranged weapon and your Dexterity score isn’t at least 15.
 
-<table
-style="border-spacing:0;border-collapse:collapse;margin-right:auto">
+<table style="width:100%;">
 <colgroup>
 <col style="width: 14%" />
 <col style="width: 14%" />
@@ -49,125 +40,52 @@ style="border-spacing:0;border-collapse:collapse;margin-right:auto">
 <col style="width: 14%" />
 </colgroup>
 <tbody>
-<tr class="odd" style="height:0pt">
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 70.5pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:italic">Armor</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Armor
-Class (AC)</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 56.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Strength</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Properties</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Don/</span></p>
-<p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Doff</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Weight</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 66.8pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Cost</span></p></td>
+<tr class="odd">
+<td><p><span>Armor</span></p></td>
+<td><p><span>Armor Class (AC)</span></p></td>
+<td><p><span>Strength</span></p></td>
+<td><p><span>Properties</span></p></td>
+<td><p><span>Don/</span></p>
+<p><span>Doff</span></p></td>
+<td><p><span>Weight</span></p></td>
+<td><p><span>Cost</span></p></td>
 </tr>
-<tr class="even" style="height:21pt">
-<td colspan="7"
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 468pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="font-style:italic">Shield (</span><span
-style="font-style:italic">Utilize</span><span
-style="font-style:italic"> Action to Don or Doff)</span></p></td>
+<tr class="even">
+<td colspan="7"><p><span>Shield
+(</span><span>Utilize</span><span> Action to Don or
+Doff)</span></p></td>
 </tr>
-<tr class="odd" style="height:0pt">
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 70.5pt; border-top-color: #000000; border-bottom-style: solid"><p><span>Shield</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+2</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 56.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">—</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">—</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Utilize
-Action</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">6
-lb.</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 66.8pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10
-GP</span></p></td>
+<tr class="odd">
+<td><p><span>Shield</span></p></td>
+<td><p><span>+2</span></p></td>
+<td><p><span>—</span></p></td>
+<td><p><span>—</span></p></td>
+<td><p><span>Utilize Action</span></p></td>
+<td><p><span>6 lb.</span></p></td>
+<td><p><span>10 GP</span></p></td>
 </tr>
-<tr class="even" style="height:0pt">
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 70.5pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Buckler</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+1</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 56.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">—</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Bonus
-Action</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">3
-lb.</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 66.8pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10
-GP</span></p></td>
+<tr class="even">
+<td><p><span>Buckler</span></p></td>
+<td><p><span>+1</span></p></td>
+<td><p><span>—</span></p></td>
+<td><p><span></span></p></td>
+<td><p><span>Bonus Action</span></p></td>
+<td><p><span>3 lb.</span></p></td>
+<td><p><span>10 GP</span></p></td>
 </tr>
-<tr class="odd" style="height:20.1pt">
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 70.5pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Tower
-Shield</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+3</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 56.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Str
-15</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 90pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Hefty</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Utilize
-Action</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 47.2pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">9
-lb.</span></p></td>
-<td
-style="border-right-style: solid; padding: 5pt 5pt 5pt 5pt; border-bottom-color: #000000; border-top-width: 1pt; border-right-width: 1pt; border-left-color: #000000; vertical-align: top; border-right-color: #000000; border-left-width: 1pt; border-top-style: solid; border-left-style: solid; border-bottom-width: 1pt; width: 66.8pt; border-top-color: #000000; border-bottom-style: solid"><p><span
-style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">30
-GP</span></p></td>
+<tr class="odd">
+<td><p><span>Tower Shield</span></p></td>
+<td><p><span>+3</span></p></td>
+<td><p><span>Str 15</span></p></td>
+<td><p><span>Hefty</span></p></td>
+<td><p><span>Utilize Action</span></p></td>
+<td><p><span>9 lb.</span></p></td>
+<td><p><span>30 GP</span></p></td>
 </tr>
 </tbody>
 </table>
 
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
+#### Shield Properties:
 
-### <span style="color:#434343;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:&quot;Arial&quot;;font-style:normal">Shield Properties:</span>
-
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Hefty:
-While this shield is equipped, your movement speed is reduced by 10
-feet.</span>
+Hefty: While this shield is equipped, your movement speed is reduced by
+10 feet.

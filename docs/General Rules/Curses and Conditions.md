@@ -2,60 +2,50 @@
 
 <!-- -->
 
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">-1
-  to any ability check that takes more than 30 minutes.This will stack
-  for each set of 30 minutes that the task takes</span>
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">+1
-  to Sleight of Hand</span>
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">-1
-  to Perception</span>
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Disadvantage
-  on all Concentration saving throws</span>
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Expertise
-  in all intelligence checks and saving throws related to one
-  hyperfixation</span>
+- -1 to any ability check that takes more than 30 minutes.This will
+  stack for each set of 30 minutes that the task takes
+- +1 to Sleight of Hand
+- -1 to Perception
+- Disadvantage on all Concentration saving throws
+- Expertise in all intelligence checks and saving throws related to one
+  hyperfixation
 
 <!-- -->
 
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
+- 
 
-|                                                                                                                                                                    |                                                                                                                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">d10</span> | <span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Hyperfixation</span> |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Flumphs</span>       |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Rocks</span>         |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">3</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Birds</span>         |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">4</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Vehicles</span>      |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">5</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Woodcarving</span>   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">6</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Plants</span>        |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">7</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Magic</span>         |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">8</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Swords</span>        |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">9</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Reptiles</span>      |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Dragons</span>       |
+|     |               |
+|-----|---------------|
+| d10 | Hyperfixation |
+| 1   | Flumphs       |
+| 2   | Rocks         |
+| 3   | Birds         |
+| 4   | Vehicles      |
+| 5   | Woodcarving   |
+| 6   | Plants        |
+| 7   | Magic         |
+| 8   | Swords        |
+| 9   | Reptiles      |
+| 10  | Dragons       |
 
-<span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
-
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Roll
-  on ADHD table once per day</span>
+- Roll on ADHD table once per day
 
 <!-- -->
 
-- <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
+- 
 
-|                                                                                                                                                                    |                                                                                                                                                                                                                                                         |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">d12</span> | <span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">ADHD</span>                                                                                     |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">1</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You misplace one spell component, weapon, or item</span>                                        |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">2</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You zone out for 10 minutes</span>                                                              |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">3</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You get distracted by something for 5 minutes</span>                                            |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">4</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You feel the urge to fidget with something for 1 minute</span>                                  |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">5</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You gain expertise in one tool or instrument of your choice for 1 hour</span>                   |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">6</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Re-roll on the hyperfixation table, replace your current hyperfixation with the new roll</span> |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">7</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You find a random nonmagical item on the ground</span>                                          |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">8</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You forget about one of your skills, abilities, or spells for 10 minutes</span>                 |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">9</span>   | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You gain proficiency in improvised weapons for 1 hour</span>                                    |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">10</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You find a random potion in your bag that you forgot was there</span>                           |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">11</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You learn a random cantrip for 1 hour</span>                                                    |
-| <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">12</span>  | <span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">You trigger a wild magic surge</span>                                                           |
-
-<span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span>
+|     |                                                                                          |
+|-----|------------------------------------------------------------------------------------------|
+| d12 | ADHD                                                                                     |
+| 1   | You misplace one spell component, weapon, or item                                        |
+| 2   | You zone out for 10 minutes                                                              |
+| 3   | You get distracted by something for 5 minutes                                            |
+| 4   | You feel the urge to fidget with something for 1 minute                                  |
+| 5   | You gain expertise in one tool or instrument of your choice for 1 hour                   |
+| 6   | Re-roll on the hyperfixation table, replace your current hyperfixation with the new roll |
+| 7   | You find a random nonmagical item on the ground                                          |
+| 8   | You forget about one of your skills, abilities, or spells for 10 minutes                 |
+| 9   | You gain proficiency in improvised weapons for 1 hour                                    |
+| 10  | You find a random potion in your bag that you forgot was there                           |
+| 11  | You learn a random cantrip for 1 hour                                                    |
+| 12  | You trigger a wild magic surge                                                           |
