@@ -38,7 +38,7 @@
 |                                                                                                                                         |             |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | Use                                                                                                                                     | Cost        |
-| Reroll D20                                                                                                                              | 1 SD point  |
+| Reroll Dice                                                                                                                             | 1 SD point  |
 | Remove 1 Legendary Resistance                                                                                                           | 2 SD points |
 | Remove 1 Negative Condition (subject to DM veto)                                                                                        | 2 SD points |
 | One player gets to take a second turn for a single round of combat, which happens after another player’s turn or after a monster’s turn | 3 SD points |
