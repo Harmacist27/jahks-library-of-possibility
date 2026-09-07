@@ -1,24 +1,35 @@
-/* Custom background for Jahk's Library of Possibility */
+/* Ensure the body takes full height and displays the fixed background */
+html, body {
+  min-height: 100vh;
+}
+
 [data-md-color-scheme="default"] body,
 [data-md-color-scheme="slate"] body {
   background-image: 
     linear-gradient(rgba(15, 23, 42, 0.85), rgba(15, 23, 42, 0.85)), 
-    url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=2000&auto=format&fit=crop');
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=2000&auto=format&fit=crop') !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
 }
 
-/* Ensure content cards remain readable over the background */
+/* Make MkDocs Material inner wrappers transparent so the background shows through */
+.md-container,
+.md-main,
+.md-main__inner {
+  background: transparent !important;
+}
+
+/* Styled content card for high legibility */
 .md-content {
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: rgba(255, 255, 255, 0.96) !important;
   border-radius: 8px;
   padding: 1.5rem;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 }
 
-/* Adjust card overlay if you use MkDocs dark mode (Slate theme) */
+/* Dark mode card compatibility */
 [data-md-color-scheme="slate"] .md-content {
-  background-color: rgba(30, 41, 59, 0.92);
+  background-color: rgba(30, 41, 59, 0.94) !important;
 }
