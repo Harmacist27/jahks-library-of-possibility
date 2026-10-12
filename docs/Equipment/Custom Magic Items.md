@@ -6,7 +6,7 @@ These boots allow you to jump up to 100 feet in any direction.
 
 #### Cape of Gliding
 
-This cape allows you to descend 5 feet horizontally for each food you
+This cape allows you to descend 5 feet horizontally for each foot you
 fall vertically. You cannot fall faster than 10 feet in a round while
 using this feature.  
 
