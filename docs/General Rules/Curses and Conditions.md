@@ -34,18 +34,18 @@
 
 - 
 
-|     |                                                                                          |
-|-----|------------------------------------------------------------------------------------------|
-| d12 | ADHD                                                                                     |
-| 1   | You misplace one spell component, weapon, or item                                        |
-| 2   | You zone out for 10 minutes                                                              |
-| 3   | You get distracted by something for 5 minutes                                            |
-| 4   | You feel the urge to fidget with something for 1 minute                                  |
-| 5   | You gain expertise in one tool or instrument of your choice for 1 hour                   |
-| 6   | Re-roll on the hyperfixation table, replace your current hyperfixation with the new roll |
-| 7   | You find a random nonmagical item on the ground                                          |
-| 8   | You forget about one of your skills, abilities, or spells for 10 minutes                 |
-| 9   | You gain proficiency in improvised weapons for 1 hour                                    |
-| 10  | You find a random potion in your bag that you forgot was there                           |
-| 11  | You learn a random cantrip for 1 hour                                                    |
-| 12  | You trigger a wild magic surge                                                           |
+|  |  |
+|----|----|
+| d12 | ADHD |
+| 1 | You misplace one spell component, weapon, or item |
+| 2 | You zone out for 10 minutes |
+| 3 | You get distracted by something for 5 minutes |
+| 4 | You feel the urge to fidget with something for 1 minute |
+| 5 | You gain expertise in one tool or instrument of your choice for 1 hour |
+| 6 | Re-roll on the hyperfixation table, replace your current hyperfixation with the new roll |
+| 7 | You find a random nonmagical item on the ground |
+| 8 | You forget about one of your skills, abilities, or spells for 10 minutes |
+| 9 | You gain proficiency in improvised weapons for 1 hour |
+| 10 | You find a random potion in your bag that you forgot was there |
+| 11 | You learn a random cantrip for 1 hour |
+| 12 | You trigger a wild magic surge |

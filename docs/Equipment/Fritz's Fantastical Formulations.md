@@ -27,78 +27,78 @@ Effect Options
 <col style="width: 33%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p><span>Name</span></p></td>
 <td><p><span>Buff</span></p></td>
 <td><p><span>Cost</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Good Fortune*</span></p></td>
 <td><p><span>Bless Spell (just cast on recipient)</span></p></td>
 <td><p><span>40 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Strength, Dexterity, Constitution, Intelligence, Wisdom, or
 Charisma</span></p>
 <p><span>(pick a different ability for each repetition)</span></p></td>
 <td><p><span>ADV on ability checks related to an ability</span></p></td>
 <td><p><span>45 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Healing/Fortitude</span></p></td>
 <td><p><span>2d8+4 Healing or Temp HP</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Restoration*</span></p></td>
 <td><p><span>Lesser Restoration Spell</span></p></td>
 <td><p><span>60 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Flight*</span></p></td>
 <td><p><span>Flying speed equal to your walking speed</span></p></td>
 <td><p><span>60 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Swim*</span></p></td>
 <td><p><span>Swimming speed equal to your walking speed and the ability
 to breath under water</span></p></td>
 <td><p><span>30 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Spider Climb*</span></p></td>
 <td><p><span>Climbing speed equal to your walking speed, and the ability
 to climb along vertical surfaces and ceilings</span></p></td>
 <td><p><span>40 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Spell Refueling</span></p></td>
 <td><p><span>Replenish 1 Spell Slot (up to level 5)</span></p></td>
 <td><p><span>25 GP per Spell Level</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Power</span></p></td>
 <td><p><span>+2 Damage on weapon attacks and unarmed
 strikes</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Defense</span></p></td>
 <td><p><span>+1 AC</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Invisibility*</span></p></td>
 <td><p><span>Invisible until target attacks or casts a
 spell</span></p></td>
 <td><p><span>60 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Swiftness</span></p></td>
 <td><p><span>Double Movement Speed</span></p></td>
 <td><p><span>55 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Elementalism</span></p>
 <p><span>(Picking the same element twice increases the
 damage)</span></p></td>
@@ -106,24 +106,24 @@ damage)</span></p></td>
 fire, lightning, poison, or thunder damage (pick one)</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Arcane Boost</span></p></td>
 <td><p><span>Increase spell save DC and spell attack bonus by
 +1</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Darkvision</span></p></td>
 <td><p><span>+60 feet of darkvision</span></p></td>
 <td><p><span>25 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Communication</span></p></td>
 <td><p><span>Speak with Animals, Speak With Plants, Speak with Dead, or
 learn one new language for the duration. </span></p></td>
 <td><p><span>25 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Resistance</span></p>
 <p><span>(Chose a different damage type for each
 repetition)</span></p></td>
@@ -131,65 +131,65 @@ repetition)</span></p></td>
 choice</span></p></td>
 <td><p><span>100 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Name</span></p></td>
 <td><p><span>Debuff</span></p></td>
 <td><p><span>Cost</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Growth/</span></p>
 <p><span>Dimmution</span></p></td>
 <td><p><span>Enlarge/Reduce</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Ill Fortune*</span></p></td>
 <td><p><span>Bane Spell</span></p></td>
 <td><p><span>60 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Acid</span></p></td>
 <td><p><span>3d6 Acid damage</span></p></td>
 <td><p><span>40 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Decay</span></p></td>
 <td><p><span>2d6 Necrotic damage and the target can’t regain hit points
 for the duration</span></p></td>
 <td><p><span>40 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Poison</span></p></td>
 <td><p><span>2d6 Poison damage and the Poisoned
 Condition</span></p></td>
 <td><p><span>40 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Stun*</span></p></td>
 <td><p><span>Stunned Condition</span></p></td>
 <td><p><span>60 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Paralyzation*</span></p></td>
 <td><p><span>Paralyzed Condition</span></p></td>
 <td><p><span>70 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Petrification*</span></p></td>
 <td><p><span>Petrified Condition</span></p></td>
 <td><p><span>100 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Blindness*</span></p></td>
 <td><p><span>Blinded Condition</span></p></td>
 <td><p><span>50 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Slowness</span></p></td>
 <td><p><span>-10 feet movement speed</span></p></td>
 <td><p><span>25 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Vulnerability</span></p>
 <p><span>(Chose a different damage type for each
 repetition)</span></p></td>
@@ -202,15 +202,15 @@ duration.</span></p></td>
 
 Flask Options
 
-|            |                                                                                                                                                                                                                     |       |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| Name       | Bonus                                                                                                                                                                                                               | Cost  |
-| Standard   | None                                                                                                                                                                                                                | 10 GP |
-| Swift      | Bonus Action to drink or administer potion                                                                                                                                                                          | 25 GP |
-| Voluminous | Potion effects last for 1 hour                                                                                                                                                                                      | 25 GP |
-| Reinforced | Potion can have up to 6 effects.                                                                                                                                                                                    | 25 GP |
-| Anointing  | Allows the potion to be applied to a weapon or up to 10 pieces of ammunition. This can be done as a Bonus Action.                                                                                                   | 25 GP |
-| Splash     | Can be thrown, affecting a 5 foot radius sphere, centered on where the potion lands. Thrown range is equal to 10 feet \* thrower’s Strength Modifier (minimum of 10 feet). Throwing the potion counts as one attack | 25 GP |
+|  |  |  |
+|----|----|----|
+| Name | Bonus | Cost |
+| Standard | None | 10 GP |
+| Swift | Bonus Action to drink or administer potion | 25 GP |
+| Voluminous | Potion effects last for 1 hour | 25 GP |
+| Reinforced | Potion can have up to 6 effects. | 25 GP |
+| Anointing | Allows the potion to be applied to a weapon or up to 10 pieces of ammunition. This can be done as a Bonus Action. | 25 GP |
+| Splash | Can be thrown, affecting a 5 foot radius sphere, centered on where the potion lands. Thrown range is equal to 10 feet \* thrower’s Strength Modifier (minimum of 10 feet). Throwing the potion counts as one attack | 25 GP |
 
 Example Formulations:
 

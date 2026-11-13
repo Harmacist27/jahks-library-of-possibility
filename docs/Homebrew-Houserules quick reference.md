@@ -35,14 +35,14 @@
 - At the end of each session, any left over SD points are converted to
   XP, as per the table below.
 
-|                                                                                                                                         |             |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Use                                                                                                                                     | Cost        |
-| Reroll Dice                                                                                                                             | 1 SD point  |
-| Remove 1 Legendary Resistance                                                                                                           | 2 SD points |
-| Remove 1 Negative Condition (subject to DM veto)                                                                                        | 2 SD points |
+|  |  |
+|----|----|
+| Use | Cost |
+| Reroll Dice | 1 SD point |
+| Remove 1 Legendary Resistance | 2 SD points |
+| Remove 1 Negative Condition (subject to DM veto) | 2 SD points |
 | One player gets to take a second turn for a single round of combat, which happens after another player’s turn or after a monster’s turn | 3 SD points |
-| Prevent Death                                                                                                                           | 4 SD points |
+| Prevent Death | 4 SD points |
 
 |                 |                    |
 |-----------------|--------------------|
@@ -493,13 +493,13 @@ magic or some special ability.
 
 - 
 
-|             |                                                                                                |
-|-------------|------------------------------------------------------------------------------------------------|
-| Spell Level | Effect                                                                                         |
-| 6           | Immediately fall to 0 hit points and take one death saving throw failure.                      |
-| 7           | Immediately Die.                                                                               |
-| 8           | Immediately Die, only a spell of level 7 or above can bring you back to life                   |
-| 9           | Immediately Die. Nothing short of True Resurrection or a Wish spell can bring you back to life |
+|  |  |
+|----|----|
+| Spell Level | Effect |
+| 6 | Immediately fall to 0 hit points and take one death saving throw failure. |
+| 7 | Immediately Die. |
+| 8 | Immediately Die, only a spell of level 7 or above can bring you back to life |
+| 9 | Immediately Die. Nothing short of True Resurrection or a Wish spell can bring you back to life |
 
 #### Spell Rulings:
 

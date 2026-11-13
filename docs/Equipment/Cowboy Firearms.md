@@ -1,23 +1,23 @@
 Equipment Table
 
-|                        |       |                 |        |                                                                                       |         |
-|------------------------|-------|-----------------|--------|---------------------------------------------------------------------------------------|---------|
-| Simple Melee Weapons   | Cost  | Damage          | Weight | Properties                                                                            | Mastery |
-| Bayonet                | 5 gp  | 1d4 piercing    | 1/2 lb | Finesse, light, attachment                                                            | Sap     |
-| Martial Melee Weapons  | Cost  | Damage          | Weight | Properties                                                                            |         |
-| Lasso                  | 2 gp  | —-              | 3 lb   | Finesse, thrown (range 20/60), trapping                                               | Topple  |
-| Simple Ranged Weapons  | Cost  | Damage          | Weight | Properties                                                                            |         |
-| Double Barrel Shotgun  | 25 gp | 2d4 piercing    | 6lb    | Ammunition (range 30/120), special reload (2), two handed, destructive, close contact | Slow    |
-| Martial Ranged Weapons | Cost  | Damage          | Weight | Properties                                                                            |         |
-| Revolver               | 50 gp | 1d6 piercing    | 1 lb   | Ammunition (range 80/320), special reload (6), light                                  | Nick    |
-| Repeater               | 60 gp | 1d8 piercing    | 6 lbs  | Ammunition (range 100/400), special reload (12), two handed                           | Slow    |
-| Bolt action rifle      | 75 gp | 1d10 piercing   | 8 lb   | Ammunition (range 150/600), loading, two handed, heavy, lethal                        | Sap     |
-| Ammunition             | Cost  |                 | Weight |                                                                                       |         |
-| Revolver Rounds (20)   | 4 gp  |                 | 1lb    |                                                                                       |         |
-| Rifle Rounds (20)      | 5 gp  |                 | 1lb    |                                                                                       |         |
-| Shotgun Shells (20)    | 2 gp  |                 | 1 lb   |                                                                                       |         |
-| Explosives             | Cost  | Damage          | Weight |                                                                                       |         |
-| Dynamite               | 40 gp | 2d6 bludgeoning | 1 lb   | Area of Effect (5ft radius sphere), bundle                                            |         |
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| Simple Melee Weapons | Cost | Damage | Weight | Properties | Mastery |
+| Bayonet | 5 gp | 1d4 piercing | 1/2 lb | Finesse, light, attachment | Sap |
+| Martial Melee Weapons | Cost | Damage | Weight | Properties |  |
+| Lasso | 2 gp | —- | 3 lb | Finesse, thrown (range 20/60), trapping | Topple |
+| Simple Ranged Weapons | Cost | Damage | Weight | Properties |  |
+| Double Barrel Shotgun | 25 gp | 2d4 piercing | 6lb | Ammunition (range 30/120), special reload (2), two handed, destructive, close contact | Slow |
+| Martial Ranged Weapons | Cost | Damage | Weight | Properties |  |
+| Revolver | 50 gp | 1d6 piercing | 1 lb | Ammunition (range 80/320), special reload (6), light | Nick |
+| Repeater | 60 gp | 1d8 piercing | 6 lbs | Ammunition (range 100/400), special reload (12), two handed | Slow |
+| Bolt action rifle | 75 gp | 1d10 piercing | 8 lb | Ammunition (range 150/600), loading, two handed, heavy, lethal | Sap |
+| Ammunition | Cost |  | Weight |  |  |
+| Revolver Rounds (20) | 4 gp |  | 1lb |  |  |
+| Rifle Rounds (20) | 5 gp |  | 1lb |  |  |
+| Shotgun Shells (20) | 2 gp |  | 1 lb |  |  |
+| Explosives | Cost | Damage | Weight |  |  |
+| Dynamite | 40 gp | 2d6 bludgeoning | 1 lb | Area of Effect (5ft radius sphere), bundle |  |
 
 ## Properties
 

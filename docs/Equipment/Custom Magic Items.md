@@ -164,14 +164,14 @@ and it needs to be solved again before it can be used in this way. If a
 creature solves the cube 5 times, they no longer need to make a skill
 check to solve it, and it only takes 1 minute.
 
-|            |                                                                                                                                                                                                             |
-|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| d6         | Effect                                                                                                                                                                                                      |
-| 1 (White)  | The ground within a 20ft cube centered on the cube becomes frozen. Any creature that moves onto or across the ice must make a DC 16 Dexterity saving throw or fall prone.                                   |
-| 2 (Green)  | Vines, shrubs and other plants grow in a 50 ft cube centered at the cube, causing the ground in that area to become difficult terrain.                                                                      |
-| 3 (Blue)   | All creatures within a 15 ft cube centered on the cube that have less than 30 hit points fall asleep for 1 minute, until they are woken up or take damage.                                                  |
-| 4 (Red)    | All creatures of your choice within a 30 ft cube centered on the cube regain (1d4)3 hit points.                                                                                                             |
-| 5 (Orange) | Fireball is cast, entered on the cube, but instead of a sphere, it is a cube with sides of length 40 ft, and centered on the cube. The save DC for this fireball is 16                                      |
+|  |  |
+|----|----|
+| d6 | Effect |
+| 1 (White) | The ground within a 20ft cube centered on the cube becomes frozen. Any creature that moves onto or across the ice must make a DC 16 Dexterity saving throw or fall prone. |
+| 2 (Green) | Vines, shrubs and other plants grow in a 50 ft cube centered at the cube, causing the ground in that area to become difficult terrain. |
+| 3 (Blue) | All creatures within a 15 ft cube centered on the cube that have less than 30 hit points fall asleep for 1 minute, until they are woken up or take damage. |
+| 4 (Red) | All creatures of your choice within a 30 ft cube centered on the cube regain (1d4)3 hit points. |
+| 5 (Orange) | Fireball is cast, entered on the cube, but instead of a sphere, it is a cube with sides of length 40 ft, and centered on the cube. The save DC for this fireball is 16 |
 | 6 (Yellow) | Sun beam is cast in a 60ft line. The direction of the beam is random. Roll a d4, on a 1, the beam points north, 2 for east, 3 for south, and 4 for west. If the cube is solved, the direction is not random |
 
 - The Hammer of Disorder
@@ -181,19 +181,19 @@ check to solve it, and it only takes 1 minute.
 - 3 charges, refresh on long rest. Spend 1 charge on a successful attack
   to apply one of the following effects
 
-|     |                                                                                                                              |
-|-----|------------------------------------------------------------------------------------------------------------------------------|
-| d10 | Effect                                                                                                                       |
-| 1   | The wielder is immune to damage done by this weapon until the end of the current turn                                        |
-| 2   | The weapon glows until the end of the wielder’s next turn                                                                    |
-| 3   | The wielder and the target switch places                                                                                     |
-| 4   | The target falls prone                                                                                                       |
-| 5   | The attack deals an additional 1d6 fire damage                                                                               |
-| 6   | The wielder’s AC increases by 2 until the end of their next turn                                                             |
-| 7   | The target takes an additional 1d8 thunder damage and is pushed 15ft back                                                    |
-| 8   | The spell goodberry is cast at 1st level. The berries appear on the ground in the wielder’s space.                           |
-| 9   | The target becomes frozen in a block of ice until the end of its next turn. It is restrained and incapacitated while frozen. |
-| 10  | If the target has 50 or fewer hitpoints, it dies                                                                             |
+|  |  |
+|----|----|
+| d10 | Effect |
+| 1 | The wielder is immune to damage done by this weapon until the end of the current turn |
+| 2 | The weapon glows until the end of the wielder’s next turn |
+| 3 | The wielder and the target switch places |
+| 4 | The target falls prone |
+| 5 | The attack deals an additional 1d6 fire damage |
+| 6 | The wielder’s AC increases by 2 until the end of their next turn |
+| 7 | The target takes an additional 1d8 thunder damage and is pushed 15ft back |
+| 8 | The spell goodberry is cast at 1st level. The berries appear on the ground in the wielder’s space. |
+| 9 | The target becomes frozen in a block of ice until the end of its next turn. It is restrained and incapacitated while frozen. |
+| 10 | If the target has 50 or fewer hitpoints, it dies |
 
 #### Coin of Luck
 

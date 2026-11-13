@@ -7,8 +7,8 @@ is ever truly an ally to any but themselves and their thralls. Truly, it
 is in a Necromancer’s nature to be against nature, to strive for greater
 power when all others fail them.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  |
+|----|
 | NOTE: The Necromancer class was designed to operate as a replacement to the Animate Dead spell. Characters using the Necromancer class are not expected to have access to Animate Dead. If a character multiclasses and has the ability to learn Animate Dead, talk with your DM to see if it is okay to use alongside the Necromancer class. Otherwise, players with Necromancer levels cannot cast Animate Dead. |
 
 ### Becoming A Necromancer…
@@ -26,16 +26,44 @@ As a Multiclass Character
   Necromancer Features table. See the multiclassing rules in
   multiclassing to determine your available spell slots.
 
-|                            |                                                                                                            |
-|----------------------------|------------------------------------------------------------------------------------------------------------|
-| Core Necromancer Traits    |                                                                                                            |
-| Primary Ability            | Intelligence                                                                                               |
-| Hit Point Die              | D8 per Necromancer level                                                                                   |
-| Saving Throw Proficiencies | Intelligence and Wisdom                                                                                    |
-| Skill Proficiencies        | Choose 2: Arcana, History, Intimidation, Medicine, Religion                                                |
-| Armor Training             | Light Armor                                                                                                |
-| Weapon Proficiencies       | Simple weapons                                                                                             |
-| Starting Equipment         | Choose A, or B: (A) Leather Armor, Sickle, Arcane Focus (Quarterstaff), Priest’s Pack, 1 GP; or (B) 50 GP  |
+<table>
+<tbody>
+<tr>
+<td colspan="2"><p><span>Core Necromancer Traits</span></p></td>
+</tr>
+<tr>
+<td><p><span>Primary Ability</span></p></td>
+<td><p><span>Intelligence</span></p></td>
+</tr>
+<tr>
+<td><p><span>Hit Point Die</span></p></td>
+<td><p><span>D8 per Necromancer level</span></p></td>
+</tr>
+<tr>
+<td><p><span>Saving Throw Proficiencies</span></p></td>
+<td><p><span>Intelligence and Wisdom</span></p></td>
+</tr>
+<tr>
+<td><p><span>Skill Proficiencies</span></p></td>
+<td><p><span>Choose 2:</span><span> Arcana, History, Intimidation,
+Medicine, Religion</span></p></td>
+</tr>
+<tr>
+<td><p><span>Armor Training</span></p></td>
+<td><p><span>Light Armor</span></p></td>
+</tr>
+<tr>
+<td><p><span>Weapon Proficiencies</span></p></td>
+<td><p><span>Simple weapons</span></p></td>
+</tr>
+<tr>
+<td><p><span>Starting Equipment</span></p></td>
+<td><p><span>Choose A, or B:</span><span> (A) Leather Armor, Sickle,
+Arcane Focus (</span><span>Quarterstaff</span><span>), Priest’s Pack, 1
+GP; or (</span><span>B</span><span>) 50 GP</span><span> </span></p></td>
+</tr>
+</tbody>
+</table>
 
 As a Necromancer, you gain the following class features when you reach
 the specified Necromancer levels. These features are listed in the
@@ -70,7 +98,7 @@ Necromancer Features table.
 <col style="width: 6%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p><span>Level</span></p></td>
 <td><p><span>Prof. Bonus</span></p></td>
 <td><p><span>Features</span></p></td>
@@ -90,7 +118,7 @@ Necromancer Features table.
 <td><p><span>8th</span></p></td>
 <td><p><span>9th</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>1</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Necromancy, </span><span>Spellcasting </span></p></td>
@@ -107,7 +135,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>2</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Reanimate</span></p></td>
@@ -124,7 +152,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>3</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Necromancy Subclass</span></p></td>
@@ -141,7 +169,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>4</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Ability Score Improvement</span></p></td>
@@ -158,7 +186,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>5</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Soul Reaping</span></p></td>
@@ -175,7 +203,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>6</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Spirit Calling</span></p></td>
@@ -192,7 +220,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>7</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Subclass Feature</span></p></td>
@@ -209,7 +237,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>8</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Ability Score Improvement</span></p></td>
@@ -226,7 +254,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>9</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span></span></p></td>
@@ -243,7 +271,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>10</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span>Putrefying Presence</span></p></td>
@@ -260,7 +288,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>11</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span></span></p></td>
@@ -277,7 +305,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>12</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span>Ability Score Improvement</span></p></td>
@@ -294,7 +322,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>13</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Bone Shields</span></p></td>
@@ -311,7 +339,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>14</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Subclass Feature</span></p></td>
@@ -328,7 +356,7 @@ Necromancer Features table.
 <td><p><span>-</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>15</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span></span></p></td>
@@ -345,7 +373,7 @@ Necromancer Features table.
 <td><p><span>1</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>16</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Ability Score Improvement</span></p></td>
@@ -362,7 +390,7 @@ Necromancer Features table.
 <td><p><span>1</span></p></td>
 <td><p><span>-</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>17</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Immortal Form</span></p></td>
@@ -379,7 +407,7 @@ Necromancer Features table.
 <td><p><span>1</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>18</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Bone Splinters</span></p></td>
@@ -396,7 +424,7 @@ Necromancer Features table.
 <td><p><span>1</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>19</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Epic Boon</span></p></td>
@@ -413,7 +441,7 @@ Necromancer Features table.
 <td><p><span>1</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>20</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Archlich</span></p></td>
@@ -754,13 +782,13 @@ prepared.
 
 Death Doctrine Spells
 
-|                   |                                                              |
-|-------------------|--------------------------------------------------------------|
-| Necromancer Level | Prepared Spells                                              |
-| 3                 | Hex, Inflict Wounds, Blindness/Deafness, Ray of Enfeeblement |
-| 5                 | Bestow Curse, Vampiric Touch                                 |
-| 7                 | Blight, Fire Shield                                          |
-| 9                 | Contagion, Destructive Wave                                  |
+|  |  |
+|----|----|
+| Necromancer Level | Prepared Spells |
+| 3 | Hex, Inflict Wounds, Blindness/Deafness, Ray of Enfeeblement |
+| 5 | Bestow Curse, Vampiric Touch |
+| 7 | Blight, Fire Shield |
+| 9 | Contagion, Destructive Wave |
 
 Level 3: Hands of Harm
 
@@ -831,13 +859,13 @@ Spells table, you thereafter always have the listed spells prepared.
 
 Life Doctrine Spells
 
-|                   |                                                          |
-|-------------------|----------------------------------------------------------|
-| Necromancer Level | Prepared Spells                                          |
-| 3                 | Cure Wounds, Sanctuary, Lesser Restoration, Warding Bond |
-| 5                 | Beacon of Hope, Revivify                                 |
-| 7                 | Aura of Life,  Death Ward                                |
-| 9                 | Mass Cure Wounds, Raise Dead                             |
+|  |  |
+|----|----|
+| Necromancer Level | Prepared Spells |
+| 3 | Cure Wounds, Sanctuary, Lesser Restoration, Warding Bond |
+| 5 | Beacon of Hope, Revivify |
+| 7 | Aura of Life,  Death Ward |
+| 9 | Mass Cure Wounds, Raise Dead |
 
 Level 7: Revitalizing Touch
 
@@ -886,13 +914,13 @@ spells prepared.
 
 Mediation Doctrine Spells
 
-|                   |                                                                         |
-|-------------------|-------------------------------------------------------------------------|
-| Necromancer Level | Prepared Spells                                                         |
-| 3                 | Detect Magic, Protection from Evil and Good, Augury, Pass Without Trace |
-| 5                 | Speak with Dead, Spirit Guardians                                       |
-| 7                 | Banishment, Guardian of Faith                                           |
-| 9                 | Dispel Evil and Good, Legend Lore                                       |
+|  |  |
+|----|----|
+| Necromancer Level | Prepared Spells |
+| 3 | Detect Magic, Protection from Evil and Good, Augury, Pass Without Trace |
+| 5 | Speak with Dead, Spirit Guardians |
+| 7 | Banishment, Guardian of Faith |
+| 9 | Dispel Evil and Good, Legend Lore |
 
 Level 7: Spirit Affinity
 
@@ -959,13 +987,13 @@ Spells table, you thereafter always have the listed spells prepared.
 
 Orthomancy Doctrine Spells
 
-|                   |                                                            |
-|-------------------|------------------------------------------------------------|
-| Necromancer Level | Prepared Spells                                            |
-| 3                 | Shield of Faith, Wrathful Smite, Shatter, Spiritual Weapon |
-| 5                 | Crusader’s Mantle, Elemental Weapon                        |
-| 7                 | Staggering Smite, Stoneskin                                |
-| 9                 | Wall of Stone, Animate Objects                             |
+|  |  |
+|----|----|
+| Necromancer Level | Prepared Spells |
+| 3 | Shield of Faith, Wrathful Smite, Shatter, Spiritual Weapon |
+| 5 | Crusader’s Mantle, Elemental Weapon |
+| 7 | Staggering Smite, Stoneskin |
+| 9 | Wall of Stone, Animate Objects |
 
 Level 7: Drain Strike
 

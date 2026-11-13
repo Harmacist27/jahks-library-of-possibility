@@ -1,19 +1,19 @@
 Equipment Table
 
-|                           |       |                        |        |                                                                                        |
-|---------------------------|-------|------------------------|--------|----------------------------------------------------------------------------------------|
-| Simple Melee Weapons      | Cost  | Damage                 | Weight | Properties                                                                             |
-| Bayonet                   | 5 gp  | 1d4 piercing           | 1/2 lb | Finesse, light, attachment                                                             |
-| Simple Ranged Weapons     | Cost  | Damage                 | Weight | Properties                                                                             |
-| Blunderbuss               | 25 gp | 1d8 + 1d6 -1 piercing  | 6lb    | Ammunition (range 30/120), loading, two handed, destructive, close contact, unassisted |
-| Martial Ranged Weapons    | Cost  | Damage                 | Weight | Properties                                                                             |
-| Flintlock                 | 50 gp | 2d6 - 1 piercing       | 1 lb   | Ammunition (range 80/320), loading, light, unassisted                                  |
-| Musket                    | 60 gp | 1d10 piercing + 1d6 -1 | 6 lbs  | Ammunition (range 100/400), loading, two handed, lethal, unassisted                    |
-| Ammunition                | Cost  |                        | Weight |                                                                                        |
-| Black Powder Bullets (20) | 5 gp  |                        | 1lb    |                                                                                        |
-| Blunderbuss Shot (20)     | 2 gp  |                        | 1 lb   |                                                                                        |
-| Explosives                | Cost  | Damage                 | Weight |                                                                                        |
-| Smokepowder Bomb          | 25 gp | 4d6 bludgeoning        | 1 lb   | Area of Effect (15 ft radius sphere)                                                   |
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Simple Melee Weapons | Cost | Damage | Weight | Properties |
+| Bayonet | 5 gp | 1d4 piercing | 1/2 lb | Finesse, light, attachment |
+| Simple Ranged Weapons | Cost | Damage | Weight | Properties |
+| Blunderbuss | 25 gp | 1d8 + 1d6 -1 piercing | 6lb | Ammunition (range 30/120), loading, two handed, destructive, close contact, unassisted |
+| Martial Ranged Weapons | Cost | Damage | Weight | Properties |
+| Flintlock | 50 gp | 2d6 - 1 piercing | 1 lb | Ammunition (range 80/320), loading, light, unassisted |
+| Musket | 60 gp | 1d10 piercing + 1d6 -1 | 6 lbs | Ammunition (range 100/400), loading, two handed, lethal, unassisted |
+| Ammunition | Cost |  | Weight |  |
+| Black Powder Bullets (20) | 5 gp |  | 1lb |  |
+| Blunderbuss Shot (20) | 2 gp |  | 1 lb |  |
+| Explosives | Cost | Damage | Weight |  |
+| Smokepowder Bomb | 25 gp | 4d6 bludgeoning | 1 lb | Area of Effect (15 ft radius sphere) |
 
 ## Properties
 

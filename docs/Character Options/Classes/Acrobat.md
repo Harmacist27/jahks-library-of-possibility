@@ -2,16 +2,16 @@ Acrobat
 
 #### Core Acrobat Traits
 
-|                            |                                                                                                                                                                                   |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Primary Ability            | Strength and Dexterity                                                                                                                                                            |
-| Hit Point Die              | D10 per Acrobat level                                                                                                                                                             |
-| Saving Throw Proficiencies | Strength and Dexterity                                                                                                                                                            |
-| Skill Proficiencies        | Choose 3: Acrobatics, Animal Handling, Athletics, Deception, Intimidation, Performance, Persuasion, Sleight of Hand, Stealth                                                      |
-| Weapon Proficiencies       | Simple and Martial weapons                                                                                                                                                        |
-| Tool Proficiencies         | Disguise Kit                                                                                                                                                                      |
-| Armor Training             | None                                                                                                                                                                              |
-| Starting Equipment         | Choose A, B, or C: (A) Maul, 3 Handaxes, Pike, Entertainer’s Pack, Disguise Kit, and 5 GP; (B) Rapier, 3 Daggers, Whip, Entertainer’s Pack, Disguise Kit, and 2 GP; or (C) 100 GP |
+|  |  |
+|----|----|
+| Primary Ability | Strength and Dexterity |
+| Hit Point Die | D10 per Acrobat level |
+| Saving Throw Proficiencies | Strength and Dexterity |
+| Skill Proficiencies | Choose 3: Acrobatics, Animal Handling, Athletics, Deception, Intimidation, Performance, Persuasion, Sleight of Hand, Stealth |
+| Weapon Proficiencies | Simple and Martial weapons |
+| Tool Proficiencies | Disguise Kit |
+| Armor Training | None |
+| Starting Equipment | Choose A, B, or C: (A) Maul, 3 Handaxes, Pike, Entertainer’s Pack, Disguise Kit, and 5 GP; (B) Rapier, 3 Daggers, Whip, Entertainer’s Pack, Disguise Kit, and 2 GP; or (C) 100 GP |
 
 ### Becoming an Acrobat…
 
@@ -47,14 +47,14 @@ Features table.
 <col style="width: 25%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p><span>Level</span></p>
 <p><span></span></p></td>
 <td><p><span>Proficiency Bonus</span></p></td>
 <td><p><span>Features</span></p></td>
 <td><p><span>Arrogant Displays</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>1st</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Show Weapon</span><span>, </span><span>Unarmored
@@ -63,7 +63,7 @@ Defense</span><span>, </span><span>Weapon Mastery</span></p></td>
 <li><span></span></li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>2nd</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Fighting Style, </span><span>Gymnastics</span></p></td>
@@ -71,7 +71,7 @@ Defense</span><span>, </span><span>Weapon Mastery</span></p></td>
 <li><span></span></li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>3rd</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Acrobat Subclass, Expertise</span></p></td>
@@ -79,7 +79,7 @@ Defense</span><span>, </span><span>Weapon Mastery</span></p></td>
 <li><span></span></li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>4th</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>Ability Score Improvement, Graceful
@@ -88,99 +88,99 @@ Tumbling</span></p></td>
 <li><span></span></li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>5th</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Arrogant Disp</span><span>lay, Extra Attack</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>6th</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Brawling</span><span>, Subclass Feature</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>7th</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Evasion, Expertise</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>8th</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Ability Score Improvement, </span><span>Bounding
 </span><span>Leaps</span></p></td>
 <td><p><span>1</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>9th</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span>Stage </span><span>Falling</span></p></td>
 <td><p><span>2</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>10th</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span>Ability Score Improvement, </span><span>Escape
 Artist</span></p></td>
 <td><p><span>2</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>11th</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span>Subclass Feature</span></p></td>
 <td><p><span>2</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>12th</span></p></td>
 <td><p><span>+4</span></p></td>
 <td><p><span>Ability Score Improvement</span></p></td>
 <td><p><span>2</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>13th</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Greater </span><span>Brawling</span></p></td>
 <td><p><span>2</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>14th</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Grandiose </span><span>Display</span></p></td>
 <td><p><span>2</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>15th</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Subclass Feature</span></p></td>
 <td><p><span>3</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>16th</span></p></td>
 <td><p><span>+5</span></p></td>
 <td><p><span>Ability Score Improvement</span></p></td>
 <td><p><span>3</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>17th</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Superior Brawling</span></p></td>
 <td><p><span>3</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>18th</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Defy Gravity</span></p></td>
 <td><p><span>3</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>19th</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>Epic Boon</span></p></td>
 <td><p><span>3</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>20th</span></p></td>
 <td><p><span>+6</span></p></td>
 <td><p><span>The </span><span>Greatest Showman</span></p></td>

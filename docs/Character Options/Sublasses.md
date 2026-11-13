@@ -21,14 +21,14 @@ as explosives at DM discretion)
 
 #### Level 3: Prospector Spells
 
-|                 |                                                                                       |
-|-----------------|---------------------------------------------------------------------------------------|
-| Artificer Level | Prepared Spells                                                                       |
-| 3               | Tenser’s Floating Disk, Faerie Fire<sup><a href="#cmnt2" id="cmnt_ref2">[b]</a></sup> |
-| 5               | Shatter, Spider Climb<sup><a href="#cmnt3" id="cmnt_ref3">[c]</a></sup>               |
-| 9               | Gaseous Form, Meld into Stone                                                         |
-| 13              | Freedom of Movement, Stone Shape                                                      |
-| 17              | Passwall, Wall of Stone                                                               |
+|  |  |
+|----|----|
+| Artificer Level | Prepared Spells |
+| 3 | Tenser’s Floating Disk, Faerie Fire<sup><a href="#cmnt2" id="cmnt_ref2">[b]</a></sup> |
+| 5 | Shatter, Spider Climb<sup><a href="#cmnt3" id="cmnt_ref3">[c]</a></sup> |
+| 9 | Gaseous Form, Meld into Stone |
+| 13 | Freedom of Movement, Stone Shape |
+| 17 | Passwall, Wall of Stone |
 
 #### Level 3: Adamantine Drill
 
@@ -264,15 +264,15 @@ As a Magic action, you can expend one use of your Channel Divinity to
 manifest a boon or bane of pure chance. Roll a d6 to determine the
 effect from the table below.
 
-|     |                                                                                                                                                                                                                                                                                                                                                      |
-|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1d6 |                                                                                                                                                                                                                                                                                                                                                      |
-| 1   | Snake Eye. Each creature of your choice within 30 feet of you must make a Constitution saving throw. On a failed save, a target takes 1d6 Poison damage and has the Poisoned condition until the end of its next turn.                                                                                                                               |
-| 2   | Godspeed. Each creature of your choice within 30 feet of you has their Speed increased by 10 feet for 1 minute.                                                                                                                                                                                                                                      |
-| 3   | Bad Fortune. Each creature of your choice within 10 feet must make a Charisma saving throw or suffer the effects of the Bane spell for 1 minute.                                                                                                                                                                                                     |
-| 4   | Good Fortune. Each creature of your choice within 10 feet of you gains the benefits of the Bless spell for 1 minute.                                                                                                                                                                                                                                 |
-| 5   | Lucky Break. Each creature of your choice within 15 feet of you regains Hit Points equal to 1d6 + your Wisdom modifier.                                                                                                                                                                                                                              |
-| 6   | Boxcar. An ethereal box car runs along a 5 foot wide, 30 foot long line originating at a point you choose within 60 feet of you. Each creature in the area must make a Strength saving throw. On a failed save, a target takes 2d6 Force damage and falls Prone. On a successful save, the target takes half as much damage and does not fall prone. |
+|  |  |
+|----|----|
+| 1d6 |  |
+| 1 | Snake Eye. Each creature of your choice within 30 feet of you must make a Constitution saving throw. On a failed save, a target takes 1d6 Poison damage and has the Poisoned condition until the end of its next turn. |
+| 2 | Godspeed. Each creature of your choice within 30 feet of you has their Speed increased by 10 feet for 1 minute. |
+| 3 | Bad Fortune. Each creature of your choice within 10 feet must make a Charisma saving throw or suffer the effects of the Bane spell for 1 minute. |
+| 4 | Good Fortune. Each creature of your choice within 10 feet of you gains the benefits of the Bless spell for 1 minute. |
+| 5 | Lucky Break. Each creature of your choice within 15 feet of you regains Hit Points equal to 1d6 + your Wisdom modifier. |
+| 6 | Boxcar. An ethereal box car runs along a 5 foot wide, 30 foot long line originating at a point you choose within 60 feet of you. Each creature in the area must make a Strength saving throw. On a failed save, a target takes 2d6 Force damage and falls Prone. On a successful save, the target takes half as much damage and does not fall prone. |
 
 #### Level 6: Life’s a Gamble
 
@@ -703,13 +703,13 @@ Vicious Mockery again at the creature.
 
 #### Level 3: Trickster Spells
 
-|               |                                                                                         |
-|---------------|-----------------------------------------------------------------------------------------|
-| Warlock Level | Spells                                                                                  |
-| 3             | Charm Person, Invisibility, Phantasmal Force, Tasha’s Hideous Laughter, Vicious Mockery |
-| 5             | Hypnotic Pattern, Major Image                                                           |
-| 7             | Greater Invisibility, Confusion                                                         |
-| 9             | Dream, Modify Memory                                                                    |
+|  |  |
+|----|----|
+| Warlock Level | Spells |
+| 3 | Charm Person, Invisibility, Phantasmal Force, Tasha’s Hideous Laughter, Vicious Mockery |
+| 5 | Hypnotic Pattern, Major Image |
+| 7 | Greater Invisibility, Confusion |
+| 9 | Dream, Modify Memory |
 
 #### Level 6: Trickster’s Escape
 

@@ -97,17 +97,51 @@ As a Multiclass Character
 - Gain the Arbiter’s level 1 features, which are listed in the Arbiter
   Features table.
 
-|                            |                                                                                                                                                                                                                                                      |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Core Arbiter Traits        |                                                                                                                                                                                                                                                      |
-| Primary Ability            | Strength or Dexterity and Intelligence                                                                                                                                                                                                               |
-| Hit Point Die              | D10 per Arbiter level                                                                                                                                                                                                                                |
-| Saving Throw Proficiencies | Constitution and Intelligence                                                                                                                                                                                                                        |
-| Skill Proficiencies        | Choose 2: Acrobatics, Arcana, Athletics, History, Insight, Intimidation, Perception, and Slight of Hand, or Stealth.                                                                                                                                 |
-| Weapon Proficiencies       | Simple and Martial weapons                                                                                                                                                                                                                           |
-| Tool Proficiencies         | Smith’s Tools                                                                                                                                                                                                                                        |
-| Armor Training             | Light, Medium, Heavy armor and Shields                                                                                                                                                                                                               |
-| Starting Equipment         | Choose A, B, or C: (A) Chain Mail, Longsword, Shield, 2 Javelins, Smith’s Tools, Dungeoneer’s Pack, and 17 GP; (B) Studded Leather Armor, Shortsword, Dagger, Longbow, 20 Arrows, Quiver,  Smith’s Tools, Dungeoneer’s Pack, and 9 GP; or (C) 150 GP |
+<table>
+<tbody>
+<tr>
+<td colspan="2"><p><span>Core Arbiter Traits</span></p></td>
+</tr>
+<tr>
+<td><p><span>Primary Ability</span></p></td>
+<td><p><span>Strength or Dexterity and Intelligence</span></p></td>
+</tr>
+<tr>
+<td><p><span>Hit Point Die</span></p></td>
+<td><p><span>D10 per Arbiter level</span></p></td>
+</tr>
+<tr>
+<td><p><span>Saving Throw Proficiencies</span></p></td>
+<td><p><span>Constitution and Intelligence</span></p></td>
+</tr>
+<tr>
+<td><p><span>Skill Proficiencies</span></p></td>
+<td><p><span>Choose 2</span><span>: </span><span>Acrobatics, Arcana,
+Athletics, History, Insight, Intimidation, Perception, and Slight of
+Hand, or Stealth</span><span>.</span></p></td>
+</tr>
+<tr>
+<td><p><span>Weapon Proficiencies</span></p></td>
+<td><p><span>Simple and Martial weapons</span></p></td>
+</tr>
+<tr>
+<td><p><span>Tool Proficiencies</span></p></td>
+<td><p><span>Smith’s Tools</span></p></td>
+</tr>
+<tr>
+<td><p><span>Armor Training</span></p></td>
+<td><p><span>Light, Medium, Heavy armor and Shields</span></p></td>
+</tr>
+<tr>
+<td><p><span>Starting Equipment</span></p></td>
+<td><p><span>Choose A, B, or C:</span><span> (A) Chain Mail, Longsword,
+Shield, 2 Javelins, Smith’s Tools, Dungeoneer’s Pack, and 17 GP; (B)
+Studded Leather Armor, Shortsword, Dagger, Longbow, 20 Arrows, Quiver,
+ Smith’s Tools, Dungeoneer’s Pack, and 9 GP; or (C) 150
+GP</span></p></td>
+</tr>
+</tbody>
+</table>
 
 ------------------------------------------------------------------------
 
@@ -115,29 +149,29 @@ As a Multiclass Character
 
 ### The Arbiter Table
 
-|       |                   |                                        |                |             |
-|-------|-------------------|----------------------------------------|----------------|-------------|
-| Level | Proficiency Bonus | Features                               | Weapon Mastery | Weapon Sets |
-| 1st   | +2                | Requip, Fighting Style, Weapon Mastery | 3              | 2           |
-| 2nd   | +2                | Phase Step                             | 3              | 2           |
-| 3rd   | +2                | Knight’s Creed                         | 3              | 2           |
-| 4th   | +2                | Ability Score Improvement              | 4              | 2           |
-| 5th   | +3                | Extra Attack, Fighting Style           | 4              | 3           |
-| 6th   | +3                | Creed Focus                            | 4              | 3           |
-| 7th   | +3                | Improved Requip, Tactical Defense      | 4              | 3           |
-| 8th   | +3                | Ability Score Improvement              | 4              | 3           |
-| 9th   | +4                | Improved Armor, Fighting Style         | 4              | 4           |
-| 10th  | +4                | Planar Synergy                         | 5              | 4           |
-| 11th  | +4                | Dancing Weapon                         | 5              | 4           |
-| 12th  | +4                | Ability Score Improvement              | 5              | 4           |
-| 13th  | +5                | Fighting Style                         | 5              | 5           |
-| 14th  | +5                | Ability Score Improvement              | 5              | 5           |
-| 15th  | +5                | Creed Revelation                       | 5              | 5           |
-| 16th  | +5                | Ability Score Improvement              | 6              | 5           |
-| 17th  | +6                | Perfected Armor, Fighting Style        | 6              | 6           |
-| 18th  | +6                | Duet                                   | 6              | 6           |
-| 19th  | +6                | Epic Boon                              | 6              | 6           |
-| 20th  | +6                | Planar Onslaught                       | 6              | 6           |
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Level | Proficiency Bonus | Features | Weapon Mastery | Weapon Sets |
+| 1st | +2 | Requip, Fighting Style, Weapon Mastery | 3 | 2 |
+| 2nd | +2 | Phase Step | 3 | 2 |
+| 3rd | +2 | Knight’s Creed | 3 | 2 |
+| 4th | +2 | Ability Score Improvement | 4 | 2 |
+| 5th | +3 | Extra Attack, Fighting Style | 4 | 3 |
+| 6th | +3 | Creed Focus | 4 | 3 |
+| 7th | +3 | Improved Requip, Tactical Defense | 4 | 3 |
+| 8th | +3 | Ability Score Improvement | 4 | 3 |
+| 9th | +4 | Improved Armor, Fighting Style | 4 | 4 |
+| 10th | +4 | Planar Synergy | 5 | 4 |
+| 11th | +4 | Dancing Weapon | 5 | 4 |
+| 12th | +4 | Ability Score Improvement | 5 | 4 |
+| 13th | +5 | Fighting Style | 5 | 5 |
+| 14th | +5 | Ability Score Improvement | 5 | 5 |
+| 15th | +5 | Creed Revelation | 5 | 5 |
+| 16th | +5 | Ability Score Improvement | 6 | 5 |
+| 17th | +6 | Perfected Armor, Fighting Style | 6 | 6 |
+| 18th | +6 | Duet | 6 | 6 |
+| 19th | +6 | Epic Boon | 6 | 6 |
+| 20th | +6 | Planar Onslaught | 6 | 6 |
 
 ------------------------------------------------------------------------
 

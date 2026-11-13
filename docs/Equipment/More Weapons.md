@@ -1,24 +1,127 @@
 \`
 
-|                        |                 |                                                                    |         |        |        |
-|------------------------|-----------------|--------------------------------------------------------------------|---------|--------|--------|
-| Name                   | Damage          | Properties                                                         | Mastery | Weight | Cost   |
-| Simple Melee Weapons   |                 |                                                                    |         |        |        |
-| Chain                  | 1d6 Bludgeoning | Heavy, Two-handed, Reach                                           | Topple  | 10 lb. | 5 GP   |
-| Macuahulti             | 1d6 Slashing    | Versatile (1d8)                                                    | Sap     | 2 lb   | 2 GP   |
-| Nunchucks              | 1d4 Bludgeoning | Light, Finesse                                                     | Nick    | ½ lb.  | 1 GP   |
-| Scythe                 | 1d6 Slashing    | Versatile (1d8)                                                    | Slow    | 5 lb.  | 1 GP   |
-| Simple Ranged Weapons  |                 |                                                                    |         |        |        |
-| Throwing Star          | 1d4 Piercing    | Light, Thrown (20/60)                                              | Nick    | ¼ lb.  | 1 SP   |
-| Martial Melee Weapons  |                 |                                                                    |         |        |        |
-| Hook Sword             | 1d6 Slashing    | Light, Finesse                                                     | Topple  | 2 lb.  | 10 GP  |
-| Executioner's Sword    | 2d8 Slashing    | Two-Handed, Ultra Heavy                                            | Cleave  | 9 lb.  | 250 GP |
-| Colossus Hammer        | 2d8 Bludgeoning | Two-Handed, Ultra Heavy                                            | Push    | 12 lb. | 225 GP |
-| Martial Ranged Weapons |                 |                                                                    |         |        |        |
-| Chakram                | 1d6 Slashing    | Thrown (30/120), Finesse, Return                                   | Graze   | 1 lb.  | 5 GP   |
-| Boomerang              | 1d4 Bludgeoning | Thrown (80/320), Finesse, Return                                   | Sap     | ½ lb.  | 2 GP   |
-| Daikyu                 | 1d10 Piercing   | Ammunition (Range 150/600; Arrow), Ultra Heavy, Two-Handed         | Slow    | 4 lb.  | 250 GP |
-| Arbalest               | 1d12 Piercing   | Ammunition (Range 100/400; Bolt), Ultra Heavy, Loading, Two-Handed | Push    | 26 lb. | 300 GP |
+<table>
+<tbody>
+<tr>
+<td><p><span>Name</span></p></td>
+<td><p><span>Damage</span></p></td>
+<td><p><span>Properties</span></p></td>
+<td><p><span>Mastery</span></p></td>
+<td><p><span>Weight</span></p></td>
+<td><p><span>Cost</span></p></td>
+</tr>
+<tr>
+<td colspan="6"><p><span>Simple Melee Weapons</span></p></td>
+</tr>
+<tr>
+<td><p><span>Chain</span></p></td>
+<td><p><span>1d6 Bludgeoning</span></p></td>
+<td><p><span>Heavy, Two-handed, Reach</span></p></td>
+<td><p><span>Topple</span></p></td>
+<td><p><span>10 lb.</span></p></td>
+<td><p><span>5 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Macuahulti</span></p></td>
+<td><p><span>1d6 Slashing</span></p></td>
+<td><p><span>Versatile (1d8)</span></p></td>
+<td><p><span>Sap</span></p></td>
+<td><p><span>2 lb</span></p></td>
+<td><p><span>2 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Nunchucks</span></p></td>
+<td><p><span>1d4 Bludgeoning</span></p></td>
+<td><p><span>Light, Finesse</span></p></td>
+<td><p><span>Nick</span></p></td>
+<td><p><span>½ lb.</span></p></td>
+<td><p><span>1 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Scythe</span></p></td>
+<td><p><span>1d6 Slashing</span></p></td>
+<td><p><span>Versatile (1d8)</span></p></td>
+<td><p><span>Slow</span></p></td>
+<td><p><span>5 lb.</span></p></td>
+<td><p><span>1 GP</span></p></td>
+</tr>
+<tr>
+<td colspan="6"><p><span>Simple Ranged Weapons</span></p></td>
+</tr>
+<tr>
+<td><p><span>Throwing Star</span></p></td>
+<td><p><span>1d4 Piercing</span></p></td>
+<td><p><span>Light, Thrown (20/60)</span></p></td>
+<td><p><span>Nick</span></p></td>
+<td><p><span>¼ lb.</span></p></td>
+<td><p><span>1 SP</span></p></td>
+</tr>
+<tr>
+<td colspan="6"><p><span>Martial Melee Weapons</span></p></td>
+</tr>
+<tr>
+<td><p><span>Hook Sword</span></p></td>
+<td><p><span>1d6 Slashing</span></p></td>
+<td><p><span>Light, Finesse</span></p></td>
+<td><p><span>Topple</span></p></td>
+<td><p><span>2 lb.</span></p></td>
+<td><p><span>10 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Executioner's Sword</span></p></td>
+<td><p><span>2d8 Slashing</span></p></td>
+<td><p><span>Two-Handed, Ultra Heavy</span></p></td>
+<td><p><span>Cleave</span></p></td>
+<td><p><span>9 lb.</span></p></td>
+<td><p><span>250 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Colossus Hammer</span></p></td>
+<td><p><span>2d8 Bludgeoning</span></p></td>
+<td><p><span>Two-Handed, Ultra Heavy</span></p></td>
+<td><p><span>Push</span></p></td>
+<td><p><span>12 lb.</span></p></td>
+<td><p><span>225 GP</span></p></td>
+</tr>
+<tr>
+<td colspan="6"><p><span>Martial Ranged Weapons</span></p></td>
+</tr>
+<tr>
+<td><p><span>Chakram</span></p></td>
+<td><p><span>1d6 Slashing</span></p></td>
+<td><p><span>Thrown (30/120), Finesse, Return</span></p></td>
+<td><p><span>Graze</span></p></td>
+<td><p><span>1 lb.</span></p></td>
+<td><p><span>5 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Boomerang</span></p></td>
+<td><p><span>1d4 Bludgeoning</span></p></td>
+<td><p><span>Thrown (80/320), Finesse, Return</span></p></td>
+<td><p><span>Sap</span></p></td>
+<td><p><span>½ lb.</span></p></td>
+<td><p><span>2 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Daikyu</span></p></td>
+<td><p><span>1d10 Piercing</span></p></td>
+<td><p><span>Ammunition (Range 150/600; Arrow), Ultra Heavy,
+Two-Handed</span></p></td>
+<td><p><span>Slow</span></p></td>
+<td><p><span>4 lb.</span></p></td>
+<td><p><span>250 GP</span></p></td>
+</tr>
+<tr>
+<td><p><span>Arbalest</span></p></td>
+<td><p><span>1d12 Piercing</span></p></td>
+<td><p><span>Ammunition (Range 100/400; Bolt), Ultra Heavy, Loading,
+Two-Handed</span></p></td>
+<td><p><span>Push</span></p></td>
+<td><p><span>26 lb.</span></p></td>
+<td><p><span>300 GP</span></p></td>
+</tr>
+</tbody>
+</table>
 
 #### Weapon Properties:
 
@@ -42,7 +145,7 @@ or if it’s a Ranged weapon and your Dexterity score isn’t at least 15.
 <col style="width: 14%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p><span>Armor</span></p></td>
 <td><p><span>Armor Class (AC)</span></p></td>
 <td><p><span>Strength</span></p></td>
@@ -52,12 +155,12 @@ or if it’s a Ranged weapon and your Dexterity score isn’t at least 15.
 <td><p><span>Weight</span></p></td>
 <td><p><span>Cost</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td colspan="7"><p><span>Shield
 (</span><span>Utilize</span><span> Action to Don or
 Doff)</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Shield</span></p></td>
 <td><p><span>+2</span></p></td>
 <td><p><span>—</span></p></td>
@@ -66,7 +169,7 @@ Doff)</span></p></td>
 <td><p><span>6 lb.</span></p></td>
 <td><p><span>10 GP</span></p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p><span>Buckler</span></p></td>
 <td><p><span>+1</span></p></td>
 <td><p><span>—</span></p></td>
@@ -75,7 +178,7 @@ Doff)</span></p></td>
 <td><p><span>3 lb.</span></p></td>
 <td><p><span>10 GP</span></p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p><span>Tower Shield</span></p></td>
 <td><p><span>+3</span></p></td>
 <td><p><span>Str 15</span></p></td>
